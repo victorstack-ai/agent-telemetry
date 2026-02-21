@@ -1,9 +1,27 @@
 {
   "current_job": "write_article",
-  "state": "Running",
-  "description": "Writing a new technical blog post: 2026-02-21-0525-devlog...",
-  "last_updated_utc": "2026-02-21T05:25:31.058596+00:00",
+  "state": "Success",
+  "description": "Successfully published 2026-02-21-drupal-ai-governance-hype!",
+  "last_updated_utc": "2026-02-21T05:30:20.139409+00:00",
   "history": [
+    {
+      "job": "write_article",
+      "state": "Success",
+      "description": "Successfully published 2026-02-21-drupal-ai-governance-hype!",
+      "timestamp": "2026-02-21T05:30:20.139409+00:00"
+    },
+    {
+      "job": "write_article",
+      "state": "Running",
+      "description": "Writing a new technical blog post: 2026-02-21-0529-devlog...",
+      "timestamp": "2026-02-21T05:29:32.663732+00:00"
+    },
+    {
+      "job": "run_backlog_task",
+      "state": "Success",
+      "description": "Completed item: Review: Drupal 11 upgrade gotchas for Slick Carousel...",
+      "timestamp": "2026-02-21T05:28:18.334633+00:00"
+    },
     {
       "job": "write_article",
       "state": "Running",
@@ -45,24 +63,6 @@
       "state": "Success",
       "description": "Successfully published 2026-02-21-drupal-ai-governance-agents-md-debate!",
       "timestamp": "2026-02-21T05:21:15.517881+00:00"
-    },
-    {
-      "job": "write_article",
-      "state": "Running",
-      "description": "Writing a new technical blog post: 2026-02-21-0520-devlog...",
-      "timestamp": "2026-02-21T05:20:28.123884+00:00"
-    },
-    {
-      "job": "run_backlog_task",
-      "state": "Success",
-      "description": "Completed item: Review: WordPress 7.0 Beta 1...",
-      "timestamp": "2026-02-21T05:20:17.256396+00:00"
-    },
-    {
-      "job": "write_article",
-      "state": "Running",
-      "description": "Writing a new technical blog post: 2026-02-21-0519-devlog...",
-      "timestamp": "2026-02-21T05:19:23.926149+00:00"
     }
   ]
 }
