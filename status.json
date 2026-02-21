@@ -1,9 +1,39 @@
 {
   "current_job": "run_backlog_task",
   "state": "Success",
-  "description": "Completed item: Build: Dries Buytaert Introduces Drupal Digests to Track Drupal Development...",
-  "last_updated_utc": "2026-02-21T06:40:18.611905+00:00",
+  "description": "Completed item: Review: ComputerMinds article on Drupal 11 upgrade gotchas with Slick Carousel...",
+  "last_updated_utc": "2026-02-21T06:53:49.538616+00:00",
   "history": [
+    {
+      "job": "run_backlog_task",
+      "state": "Success",
+      "description": "Completed item: Review: ComputerMinds article on Drupal 11 upgrade gotchas with Slick Carousel...",
+      "timestamp": "2026-02-21T06:53:49.538616+00:00"
+    },
+    {
+      "job": "write_article",
+      "state": "Running",
+      "description": "Writing a new technical blog post: 2026-02-21-0653-devlog...",
+      "timestamp": "2026-02-21T06:53:00.299371+00:00"
+    },
+    {
+      "job": "run_backlog_task",
+      "state": "Running",
+      "description": "Working on  item: Review: ComputerMinds article on Drupal 11 upgrade gotchas with Slick Carousel...",
+      "timestamp": "2026-02-21T06:48:49.686848+00:00"
+    },
+    {
+      "job": "write_article",
+      "state": "Success",
+      "description": "Successfully published 2026-02-21-drupal-ai-governance-floridacamp-debate!",
+      "timestamp": "2026-02-21T06:48:49.074735+00:00"
+    },
+    {
+      "job": "write_article",
+      "state": "Running",
+      "description": "Writing a new technical blog post: 2026-02-21-0648-devlog...",
+      "timestamp": "2026-02-21T06:48:03.605875+00:00"
+    },
     {
       "job": "run_backlog_task",
       "state": "Success",
@@ -33,36 +63,6 @@
       "state": "Success",
       "description": "Completed item: Review: DDEV v1.25.0 and the new modular share provider system with Cloudflare T...",
       "timestamp": "2026-02-21T05:57:32.216322+00:00"
-    },
-    {
-      "job": "run_backlog_task",
-      "state": "Running",
-      "description": "Working on  item: Review: DDEV v1.25.0 and the new modular share provider system with Cloudflare T...",
-      "timestamp": "2026-02-21T05:51:58.043221+00:00"
-    },
-    {
-      "job": "write_article",
-      "state": "Success",
-      "description": "Successfully published 2026-02-21-drupal-ai-governance-hype!",
-      "timestamp": "2026-02-21T05:30:20.139409+00:00"
-    },
-    {
-      "job": "write_article",
-      "state": "Running",
-      "description": "Writing a new technical blog post: 2026-02-21-0529-devlog...",
-      "timestamp": "2026-02-21T05:29:32.663732+00:00"
-    },
-    {
-      "job": "run_backlog_task",
-      "state": "Success",
-      "description": "Completed item: Review: Drupal 11 upgrade gotchas for Slick Carousel...",
-      "timestamp": "2026-02-21T05:28:18.334633+00:00"
-    },
-    {
-      "job": "write_article",
-      "state": "Running",
-      "description": "Writing a new technical blog post: 2026-02-21-0525-devlog...",
-      "timestamp": "2026-02-21T05:25:31.058596+00:00"
     }
   ]
 }
