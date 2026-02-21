@@ -1,9 +1,51 @@
 {
   "current_job": "write_article",
   "state": "Running",
-  "description": "Writing a new technical blog post: 2026-02-21-0520-devlog...",
-  "last_updated_utc": "2026-02-21T05:20:28.123884+00:00",
+  "description": "Writing a new technical blog post: 2026-02-21-0525-devlog...",
+  "last_updated_utc": "2026-02-21T05:25:31.058596+00:00",
   "history": [
+    {
+      "job": "write_article",
+      "state": "Running",
+      "description": "Writing a new technical blog post: 2026-02-21-0525-devlog...",
+      "timestamp": "2026-02-21T05:25:31.058596+00:00"
+    },
+    {
+      "job": "write_article",
+      "state": "Success",
+      "description": "Successfully published 2026-02-21-drupal-ai-governance-debate!",
+      "timestamp": "2026-02-21T05:22:43.038942+00:00"
+    },
+    {
+      "job": "write_article",
+      "state": "Skipped",
+      "description": "Duplicate topic rejected: Drupal's AGENTS.md Proposal: Navigating the AI Governance De",
+      "timestamp": "2026-02-21T05:22:37.200082+00:00"
+    },
+    {
+      "job": "write_article",
+      "state": "Running",
+      "description": "Writing a new technical blog post: 2026-02-21-0521-devlog...",
+      "timestamp": "2026-02-21T05:21:59.808602+00:00"
+    },
+    {
+      "job": "write_article",
+      "state": "Running",
+      "description": "Writing a new technical blog post: 2026-02-21-0521-devlog...",
+      "timestamp": "2026-02-21T05:21:54.090811+00:00"
+    },
+    {
+      "job": "run_backlog_task",
+      "state": "Running",
+      "description": "Working on  item: Review: Drupal 11 upgrade gotchas for Slick Carousel...",
+      "timestamp": "2026-02-21T05:21:31.330494+00:00"
+    },
+    {
+      "job": "write_article",
+      "state": "Success",
+      "description": "Successfully published 2026-02-21-drupal-ai-governance-agents-md-debate!",
+      "timestamp": "2026-02-21T05:21:15.517881+00:00"
+    },
     {
       "job": "write_article",
       "state": "Running",
@@ -21,48 +63,6 @@
       "state": "Running",
       "description": "Writing a new technical blog post: 2026-02-21-0519-devlog...",
       "timestamp": "2026-02-21T05:19:23.926149+00:00"
-    },
-    {
-      "job": "run_backlog_task",
-      "state": "Running",
-      "description": "Working on  item: Review: WordPress 7.0 Beta 1...",
-      "timestamp": "2026-02-21T05:15:00.125859+00:00"
-    },
-    {
-      "job": "write_article",
-      "state": "Skipped",
-      "description": "Duplicate topic rejected: Privacy-First AI Search for Drupal with SearXNG",
-      "timestamp": "2026-02-21T05:14:59.672469+00:00"
-    },
-    {
-      "job": "write_article",
-      "state": "Running",
-      "description": "Writing a new technical blog post: 2026-02-21-0514-devlog...",
-      "timestamp": "2026-02-21T05:14:19.025177+00:00"
-    },
-    {
-      "job": "run_backlog_task",
-      "state": "Running",
-      "description": "Working on  item: Review: Drupal 11 upgrade gotchas for Slick Carousel...",
-      "timestamp": "2026-02-21T05:10:06.416309+00:00"
-    },
-    {
-      "job": "write_article",
-      "state": "Running",
-      "description": "Writing a new technical blog post: 2026-02-21-0510-devlog...",
-      "timestamp": "2026-02-21T05:10:05.915476+00:00"
-    },
-    {
-      "job": "run_backlog_task",
-      "state": "Running",
-      "description": "Working on  item: Review: Drupal 11 upgrade gotchas for Slick Carousel...",
-      "timestamp": "2026-02-21T05:09:40.087237+00:00"
-    },
-    {
-      "job": "write_article",
-      "state": "Running",
-      "description": "Writing a new technical blog post: 2026-02-21-0509-devlog...",
-      "timestamp": "2026-02-21T05:09:39.579414+00:00"
     }
   ]
 }
