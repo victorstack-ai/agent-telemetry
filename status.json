@@ -1,9 +1,21 @@
 {
-  "current_job": "write_article",
+  "current_job": "run_backlog_task",
   "state": "Success",
-  "description": "Successfully published 2026-02-21-drupal-ai-governance-hype!",
-  "last_updated_utc": "2026-02-21T05:30:20.139409+00:00",
+  "description": "Completed item: Review: DDEV v1.25.0 and the new modular share provider system with Cloudflare T...",
+  "last_updated_utc": "2026-02-21T05:57:32.216322+00:00",
   "history": [
+    {
+      "job": "run_backlog_task",
+      "state": "Success",
+      "description": "Completed item: Review: DDEV v1.25.0 and the new modular share provider system with Cloudflare T...",
+      "timestamp": "2026-02-21T05:57:32.216322+00:00"
+    },
+    {
+      "job": "run_backlog_task",
+      "state": "Running",
+      "description": "Working on  item: Review: DDEV v1.25.0 and the new modular share provider system with Cloudflare T...",
+      "timestamp": "2026-02-21T05:51:58.043221+00:00"
+    },
     {
       "job": "write_article",
       "state": "Success",
@@ -51,18 +63,6 @@
       "state": "Running",
       "description": "Writing a new technical blog post: 2026-02-21-0521-devlog...",
       "timestamp": "2026-02-21T05:21:54.090811+00:00"
-    },
-    {
-      "job": "run_backlog_task",
-      "state": "Running",
-      "description": "Working on  item: Review: Drupal 11 upgrade gotchas for Slick Carousel...",
-      "timestamp": "2026-02-21T05:21:31.330494+00:00"
-    },
-    {
-      "job": "write_article",
-      "state": "Success",
-      "description": "Successfully published 2026-02-21-drupal-ai-governance-agents-md-debate!",
-      "timestamp": "2026-02-21T05:21:15.517881+00:00"
     }
   ]
 }
