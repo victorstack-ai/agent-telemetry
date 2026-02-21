@@ -2,8 +2,20 @@
   "current_job": "run_backlog_task",
   "state": "Running",
   "description": "Working on  item: Review: Drupal 11 upgrade gotchas for Slick Carousel...",
-  "last_updated_utc": "2026-02-21T05:09:40.087237+00:00",
+  "last_updated_utc": "2026-02-21T05:10:06.416309+00:00",
   "history": [
+    {
+      "job": "run_backlog_task",
+      "state": "Running",
+      "description": "Working on  item: Review: Drupal 11 upgrade gotchas for Slick Carousel...",
+      "timestamp": "2026-02-21T05:10:06.416309+00:00"
+    },
+    {
+      "job": "write_article",
+      "state": "Running",
+      "description": "Writing a new technical blog post: 2026-02-21-0510-devlog...",
+      "timestamp": "2026-02-21T05:10:05.915476+00:00"
+    },
     {
       "job": "run_backlog_task",
       "state": "Running",
@@ -51,18 +63,6 @@
       "state": "Running",
       "description": "Working on  item: Review: Drupal AI Initiative's use of SearXNG for privacy-first web search...",
       "timestamp": "2026-02-21T01:46:11.348485+00:00"
-    },
-    {
-      "job": "write_article",
-      "state": "Success",
-      "description": "Successfully published 2026-02-21-0112-devlog!",
-      "timestamp": "2026-02-21T01:46:10.740267+00:00"
-    },
-    {
-      "job": "write_article",
-      "state": "Running",
-      "description": "Writing a new technical blog post: 2026-02-21-0113-devlog...",
-      "timestamp": "2026-02-21T01:13:18.694776+00:00"
     }
   ]
 }
