@@ -1,9 +1,21 @@
 {
   "current_job": "run_backlog_task",
-  "state": "Running",
-  "description": "Working on  item: Review: WordPress 7.0 Beta 1...",
-  "last_updated_utc": "2026-02-21T06:56:54.511413+00:00",
+  "state": "Success",
+  "description": "Completed item: Review: WordPress 7.0 Beta 1...",
+  "last_updated_utc": "2026-02-21T07:24:18.496819+00:00",
   "history": [
+    {
+      "job": "run_backlog_task",
+      "state": "Success",
+      "description": "Completed item: Review: WordPress 7.0 Beta 1...",
+      "timestamp": "2026-02-21T07:24:18.496819+00:00"
+    },
+    {
+      "job": "run_backlog_task",
+      "state": "Running",
+      "description": "Working on  item: Review: WordPress 7.0 Beta 1...",
+      "timestamp": "2026-02-21T07:19:03.797187+00:00"
+    },
     {
       "job": "run_backlog_task",
       "state": "Running",
@@ -51,18 +63,6 @@
       "state": "Running",
       "description": "Working on  item: Build: Dries Buytaert Introduces Drupal Digests to Track Drupal Development...",
       "timestamp": "2026-02-21T06:35:37.396048+00:00"
-    },
-    {
-      "job": "run_backlog_task",
-      "state": "Success",
-      "description": "Completed item: Review: The future of DDEV with Stas Zhuk...",
-      "timestamp": "2026-02-21T06:20:28.592580+00:00"
-    },
-    {
-      "job": "run_backlog_task",
-      "state": "Running",
-      "description": "Working on  item: Review: The future of DDEV with Stas Zhuk...",
-      "timestamp": "2026-02-21T06:15:22.836058+00:00"
     }
   ]
 }
