@@ -1,9 +1,21 @@
 {
   "current_job": "run_backlog_task",
   "state": "Success",
-  "description": "Completed item: Review: WordPress 7.0 Beta 1...",
-  "last_updated_utc": "2026-02-21T10:02:21.888334+00:00",
+  "description": "Completed item: Review: How to add custom entries to the editor Preview dropdown...",
+  "last_updated_utc": "2026-02-21T10:28:32.811706+00:00",
   "history": [
+    {
+      "job": "run_backlog_task",
+      "state": "Success",
+      "description": "Completed item: Review: How to add custom entries to the editor Preview dropdown...",
+      "timestamp": "2026-02-21T10:28:32.811706+00:00"
+    },
+    {
+      "job": "run_backlog_task",
+      "state": "Running",
+      "description": "Working on  item: Review: How to add custom entries to the editor Preview dropdown...",
+      "timestamp": "2026-02-21T10:17:28.908442+00:00"
+    },
     {
       "job": "run_backlog_task",
       "state": "Success",
@@ -51,18 +63,6 @@
       "state": "Success",
       "description": "Completed item: Review: ComputerMinds article on Drupal 11 upgrade gotchas with Slick Carousel...",
       "timestamp": "2026-02-21T06:53:49.538616+00:00"
-    },
-    {
-      "job": "write_article",
-      "state": "Running",
-      "description": "Writing a new technical blog post: 2026-02-21-0653-devlog...",
-      "timestamp": "2026-02-21T06:53:00.299371+00:00"
-    },
-    {
-      "job": "run_backlog_task",
-      "state": "Running",
-      "description": "Working on  item: Review: ComputerMinds article on Drupal 11 upgrade gotchas with Slick Carousel...",
-      "timestamp": "2026-02-21T06:48:49.686848+00:00"
     }
   ]
 }
