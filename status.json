@@ -1,9 +1,21 @@
 {
   "current_job": "run_backlog_task",
   "state": "Success",
-  "description": "Completed item: Review: The future of DDEV with Stas Zhuk...",
-  "last_updated_utc": "2026-02-21T06:20:28.592580+00:00",
+  "description": "Completed item: Build: Dries Buytaert Introduces Drupal Digests to Track Drupal Development...",
+  "last_updated_utc": "2026-02-21T06:40:18.611905+00:00",
   "history": [
+    {
+      "job": "run_backlog_task",
+      "state": "Success",
+      "description": "Completed item: Build: Dries Buytaert Introduces Drupal Digests to Track Drupal Development...",
+      "timestamp": "2026-02-21T06:40:18.611905+00:00"
+    },
+    {
+      "job": "run_backlog_task",
+      "state": "Running",
+      "description": "Working on  item: Build: Dries Buytaert Introduces Drupal Digests to Track Drupal Development...",
+      "timestamp": "2026-02-21T06:35:37.396048+00:00"
+    },
     {
       "job": "run_backlog_task",
       "state": "Success",
@@ -51,18 +63,6 @@
       "state": "Running",
       "description": "Writing a new technical blog post: 2026-02-21-0525-devlog...",
       "timestamp": "2026-02-21T05:25:31.058596+00:00"
-    },
-    {
-      "job": "write_article",
-      "state": "Success",
-      "description": "Successfully published 2026-02-21-drupal-ai-governance-debate!",
-      "timestamp": "2026-02-21T05:22:43.038942+00:00"
-    },
-    {
-      "job": "write_article",
-      "state": "Skipped",
-      "description": "Duplicate topic rejected: Drupal's AGENTS.md Proposal: Navigating the AI Governance De",
-      "timestamp": "2026-02-21T05:22:37.200082+00:00"
     }
   ]
 }
