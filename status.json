@@ -1,9 +1,21 @@
 {
   "current_job": "run_backlog_task",
   "state": "Success",
-  "description": "Completed item: Review: DDEV v1.25.0 and the new modular share provider system with Cloudflare T...",
-  "last_updated_utc": "2026-02-21T05:57:32.216322+00:00",
+  "description": "Completed item: Review: The future of DDEV with Stas Zhuk...",
+  "last_updated_utc": "2026-02-21T06:20:28.592580+00:00",
   "history": [
+    {
+      "job": "run_backlog_task",
+      "state": "Success",
+      "description": "Completed item: Review: The future of DDEV with Stas Zhuk...",
+      "timestamp": "2026-02-21T06:20:28.592580+00:00"
+    },
+    {
+      "job": "run_backlog_task",
+      "state": "Running",
+      "description": "Working on  item: Review: The future of DDEV with Stas Zhuk...",
+      "timestamp": "2026-02-21T06:15:22.836058+00:00"
+    },
     {
       "job": "run_backlog_task",
       "state": "Success",
@@ -51,18 +63,6 @@
       "state": "Skipped",
       "description": "Duplicate topic rejected: Drupal's AGENTS.md Proposal: Navigating the AI Governance De",
       "timestamp": "2026-02-21T05:22:37.200082+00:00"
-    },
-    {
-      "job": "write_article",
-      "state": "Running",
-      "description": "Writing a new technical blog post: 2026-02-21-0521-devlog...",
-      "timestamp": "2026-02-21T05:21:59.808602+00:00"
-    },
-    {
-      "job": "write_article",
-      "state": "Running",
-      "description": "Writing a new technical blog post: 2026-02-21-0521-devlog...",
-      "timestamp": "2026-02-21T05:21:54.090811+00:00"
     }
   ]
 }
