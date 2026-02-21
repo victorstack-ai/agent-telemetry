@@ -1,9 +1,21 @@
 {
-  "current_job": "write_article",
+  "current_job": "run_backlog_task",
   "state": "Running",
-  "description": "Writing a new technical blog post: 2026-02-21-0459-devlog...",
-  "last_updated_utc": "2026-02-21T04:59:40.961371+00:00",
+  "description": "Working on  item: Review: Drupal 11 upgrade gotchas for Slick Carousel...",
+  "last_updated_utc": "2026-02-21T05:09:40.087237+00:00",
   "history": [
+    {
+      "job": "run_backlog_task",
+      "state": "Running",
+      "description": "Working on  item: Review: Drupal 11 upgrade gotchas for Slick Carousel...",
+      "timestamp": "2026-02-21T05:09:40.087237+00:00"
+    },
+    {
+      "job": "write_article",
+      "state": "Running",
+      "description": "Writing a new technical blog post: 2026-02-21-0509-devlog...",
+      "timestamp": "2026-02-21T05:09:39.579414+00:00"
+    },
     {
       "job": "write_article",
       "state": "Running",
@@ -51,18 +63,6 @@
       "state": "Running",
       "description": "Writing a new technical blog post: 2026-02-21-0113-devlog...",
       "timestamp": "2026-02-21T01:13:18.694776+00:00"
-    },
-    {
-      "job": "write_article",
-      "state": "Running",
-      "description": "Writing a new technical blog post: 2026-02-21-0112-devlog...",
-      "timestamp": "2026-02-21T01:12:50.928498+00:00"
-    },
-    {
-      "job": "run_backlog_task",
-      "state": "Success",
-      "description": "Completed item: Review: WordPress 7.0 Beta 1...",
-      "timestamp": "2026-02-21T00:54:13.113978+00:00"
     }
   ]
 }
