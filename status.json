@@ -1,9 +1,45 @@
 {
-  "current_job": "run_backlog_task",
+  "current_job": "write_article",
   "state": "Running",
-  "description": "Working on  item: Review: Drupal 11 upgrade gotchas for Slick Carousel...",
-  "last_updated_utc": "2026-02-21T05:10:06.416309+00:00",
+  "description": "Writing a new technical blog post: 2026-02-21-0520-devlog...",
+  "last_updated_utc": "2026-02-21T05:20:28.123884+00:00",
   "history": [
+    {
+      "job": "write_article",
+      "state": "Running",
+      "description": "Writing a new technical blog post: 2026-02-21-0520-devlog...",
+      "timestamp": "2026-02-21T05:20:28.123884+00:00"
+    },
+    {
+      "job": "run_backlog_task",
+      "state": "Success",
+      "description": "Completed item: Review: WordPress 7.0 Beta 1...",
+      "timestamp": "2026-02-21T05:20:17.256396+00:00"
+    },
+    {
+      "job": "write_article",
+      "state": "Running",
+      "description": "Writing a new technical blog post: 2026-02-21-0519-devlog...",
+      "timestamp": "2026-02-21T05:19:23.926149+00:00"
+    },
+    {
+      "job": "run_backlog_task",
+      "state": "Running",
+      "description": "Working on  item: Review: WordPress 7.0 Beta 1...",
+      "timestamp": "2026-02-21T05:15:00.125859+00:00"
+    },
+    {
+      "job": "write_article",
+      "state": "Skipped",
+      "description": "Duplicate topic rejected: Privacy-First AI Search for Drupal with SearXNG",
+      "timestamp": "2026-02-21T05:14:59.672469+00:00"
+    },
+    {
+      "job": "write_article",
+      "state": "Running",
+      "description": "Writing a new technical blog post: 2026-02-21-0514-devlog...",
+      "timestamp": "2026-02-21T05:14:19.025177+00:00"
+    },
     {
       "job": "run_backlog_task",
       "state": "Running",
@@ -27,42 +63,6 @@
       "state": "Running",
       "description": "Writing a new technical blog post: 2026-02-21-0509-devlog...",
       "timestamp": "2026-02-21T05:09:39.579414+00:00"
-    },
-    {
-      "job": "write_article",
-      "state": "Running",
-      "description": "Writing a new technical blog post: 2026-02-21-0459-devlog...",
-      "timestamp": "2026-02-21T04:59:40.961371+00:00"
-    },
-    {
-      "job": "write_article",
-      "state": "Running",
-      "description": "Writing a new technical blog post: 2026-02-21-0459-devlog...",
-      "timestamp": "2026-02-21T04:59:12.961311+00:00"
-    },
-    {
-      "job": "run_backlog_task",
-      "state": "Success",
-      "description": "Completed item: Review: Drupal AI Initiative's use of SearXNG for privacy-first web search...",
-      "timestamp": "2026-02-21T04:31:30.311415+00:00"
-    },
-    {
-      "job": "run_backlog_task",
-      "state": "Running",
-      "description": "Working on  item: Review: Drupal AI Initiative's use of SearXNG for privacy-first web search...",
-      "timestamp": "2026-02-21T02:23:14.000371+00:00"
-    },
-    {
-      "job": "write_article",
-      "state": "Success",
-      "description": "Successfully published 2026-02-21-drupal-ai-agents-md-governance-debate!",
-      "timestamp": "2026-02-21T02:23:13.427291+00:00"
-    },
-    {
-      "job": "run_backlog_task",
-      "state": "Running",
-      "description": "Working on  item: Review: Drupal AI Initiative's use of SearXNG for privacy-first web search...",
-      "timestamp": "2026-02-21T01:46:11.348485+00:00"
     }
   ]
 }
