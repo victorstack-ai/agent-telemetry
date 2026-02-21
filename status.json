@@ -1,9 +1,15 @@
 {
   "current_job": "run_backlog_task",
-  "state": "Success",
-  "description": "Completed item: Review: ComputerMinds article on Drupal 11 upgrade gotchas with Slick Carousel...",
-  "last_updated_utc": "2026-02-21T06:53:49.538616+00:00",
+  "state": "Running",
+  "description": "Working on  item: Review: WordPress 7.0 Beta 1...",
+  "last_updated_utc": "2026-02-21T06:56:54.511413+00:00",
   "history": [
+    {
+      "job": "run_backlog_task",
+      "state": "Running",
+      "description": "Working on  item: Review: WordPress 7.0 Beta 1...",
+      "timestamp": "2026-02-21T06:56:54.511413+00:00"
+    },
     {
       "job": "run_backlog_task",
       "state": "Success",
@@ -57,12 +63,6 @@
       "state": "Running",
       "description": "Working on  item: Review: The future of DDEV with Stas Zhuk...",
       "timestamp": "2026-02-21T06:15:22.836058+00:00"
-    },
-    {
-      "job": "run_backlog_task",
-      "state": "Success",
-      "description": "Completed item: Review: DDEV v1.25.0 and the new modular share provider system with Cloudflare T...",
-      "timestamp": "2026-02-21T05:57:32.216322+00:00"
     }
   ]
 }
