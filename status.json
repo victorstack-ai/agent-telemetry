@@ -1,9 +1,33 @@
 {
   "current_job": "run_backlog_task",
-  "state": "Success",
-  "description": "Completed item: Review: WordPress 7.0 iframed editor changes and a migration/compatibility playb...",
-  "last_updated_utc": "2026-02-24T21:53:13.227284+00:00",
+  "state": "Failed",
+  "description": "Task failed with exit code 101.",
+  "last_updated_utc": "2026-02-24T23:13:28.868535+00:00",
   "history": [
+    {
+      "job": "run_backlog_task",
+      "state": "Failed",
+      "description": "Task failed with exit code 101.",
+      "timestamp": "2026-02-24T23:13:28.868535+00:00"
+    },
+    {
+      "job": "run_backlog_task",
+      "state": "Running",
+      "description": "Working on  item: Build: a practical multi-agent reliability playbook (handoffs, state, evals, rol...",
+      "timestamp": "2026-02-24T23:11:49.661999+00:00"
+    },
+    {
+      "job": "write_article",
+      "state": "Success",
+      "description": "Successfully published 2026-02-24-wordpress-vulnerability-triage-playbook-feb-2026!",
+      "timestamp": "2026-02-24T23:11:49.073901+00:00"
+    },
+    {
+      "job": "write_article",
+      "state": "Running",
+      "description": "Writing a new technical blog post: 2026-02-24-2311-devlog...",
+      "timestamp": "2026-02-24T23:11:11.752431+00:00"
+    },
     {
       "job": "run_backlog_task",
       "state": "Success",
@@ -39,30 +63,6 @@
       "state": "Running",
       "description": "Working on  item: Review: WordPress 7.0 Beta 1...",
       "timestamp": "2026-02-21T13:44:41.493974+00:00"
-    },
-    {
-      "job": "run_backlog_task",
-      "state": "Success",
-      "description": "Completed item: Follow up: [victorstack-ai/wp-lab-plugin-starter] PR run failed: CI - CI mainten...",
-      "timestamp": "2026-02-21T11:48:56.254889+00:00"
-    },
-    {
-      "job": "run_backlog_task",
-      "state": "Running",
-      "description": "Working on  item: Follow up: [victorstack-ai/wp-lab-plugin-starter] PR run failed: CI - CI mainten...",
-      "timestamp": "2026-02-21T11:44:09.710696+00:00"
-    },
-    {
-      "job": "run_backlog_task",
-      "state": "Success",
-      "description": "Completed item: Review: Article on 'Using Agentic AI Without Vibe Coding'...",
-      "timestamp": "2026-02-21T11:10:22.208521+00:00"
-    },
-    {
-      "job": "run_backlog_task",
-      "state": "Running",
-      "description": "Working on  item: Review: Article on 'Using Agentic AI Without Vibe Coding'...",
-      "timestamp": "2026-02-21T11:03:13.034292+00:00"
     }
   ]
 }
