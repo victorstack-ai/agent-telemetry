@@ -1,9 +1,33 @@
 {
   "current_job": "run_backlog_task",
   "state": "Success",
-  "description": "Completed item: Review: Drupal Invites Community Feedback Through Drupal CMS Survey...",
-  "last_updated_utc": "2026-02-24T23:40:41.158861+00:00",
+  "description": "Completed item: Review: The future of DDEV with Stas Zhuk...",
+  "last_updated_utc": "2026-02-24T23:50:16.687552+00:00",
   "history": [
+    {
+      "job": "run_backlog_task",
+      "state": "Success",
+      "description": "Completed item: Review: The future of DDEV with Stas Zhuk...",
+      "timestamp": "2026-02-24T23:50:16.687552+00:00"
+    },
+    {
+      "job": "run_backlog_task",
+      "state": "Running",
+      "description": "Working on  item: Review: The future of DDEV with Stas Zhuk...",
+      "timestamp": "2026-02-24T23:49:21.191807+00:00"
+    },
+    {
+      "job": "write_article",
+      "state": "Success",
+      "description": "Successfully published 2026-02-24-searxng-drupal-ai-assistants-privacy-first-search!",
+      "timestamp": "2026-02-24T23:49:20.592605+00:00"
+    },
+    {
+      "job": "write_article",
+      "state": "Running",
+      "description": "Writing a new technical blog post: 2026-02-24-2348-devlog...",
+      "timestamp": "2026-02-24T23:48:24.417185+00:00"
+    },
     {
       "job": "run_backlog_task",
       "state": "Success",
@@ -39,30 +63,6 @@
       "state": "Running",
       "description": "Working on  item: Build: a practical multi-agent reliability playbook (handoffs, state, evals, rol...",
       "timestamp": "2026-02-24T23:17:01.040799+00:00"
-    },
-    {
-      "job": "write_article",
-      "state": "Success",
-      "description": "Successfully published 2026-02-24-drupal-ai-searxng-privacy-first-search-playbook!",
-      "timestamp": "2026-02-24T23:17:00.439184+00:00"
-    },
-    {
-      "job": "write_article",
-      "state": "Running",
-      "description": "Writing a new technical blog post: 2026-02-24-2316-devlog...",
-      "timestamp": "2026-02-24T23:16:22.807953+00:00"
-    },
-    {
-      "job": "run_backlog_task",
-      "state": "Failed",
-      "description": "Task failed with exit code 101.",
-      "timestamp": "2026-02-24T23:13:28.868535+00:00"
-    },
-    {
-      "job": "run_backlog_task",
-      "state": "Running",
-      "description": "Working on  item: Build: a practical multi-agent reliability playbook (handoffs, state, evals, rol...",
-      "timestamp": "2026-02-24T23:11:49.661999+00:00"
     }
   ]
 }
