@@ -1,9 +1,21 @@
 {
   "current_job": "run_backlog_task",
   "state": "Success",
-  "description": "Completed item: Build: a Docker sandbox hardening baseline for running agentic tools securely, w...",
-  "last_updated_utc": "2026-02-25T00:59:16.250564+00:00",
+  "description": "Completed item: Review: Node.js 24.14.0 LTS and 25.7.0 runtime changes with an upgrade-risk matr...",
+  "last_updated_utc": "2026-02-25T01:18:24.727458+00:00",
   "history": [
+    {
+      "job": "run_backlog_task",
+      "state": "Success",
+      "description": "Completed item: Review: Node.js 24.14.0 LTS and 25.7.0 runtime changes with an upgrade-risk matr...",
+      "timestamp": "2026-02-25T01:18:24.727458+00:00"
+    },
+    {
+      "job": "run_backlog_task",
+      "state": "Running",
+      "description": "Working on  item: Review: Node.js 24.14.0 LTS and 25.7.0 runtime changes with an upgrade-risk matr...",
+      "timestamp": "2026-02-25T01:14:32.233782+00:00"
+    },
     {
       "job": "run_backlog_task",
       "state": "Success",
@@ -51,18 +63,6 @@
       "state": "Running",
       "description": "Writing a new technical blog post: 2026-02-25-0003-devlog...",
       "timestamp": "2026-02-25T00:03:12.703760+00:00"
-    },
-    {
-      "job": "run_backlog_task",
-      "state": "Success",
-      "description": "Completed item: Review: The future of DDEV with Stas Zhuk...",
-      "timestamp": "2026-02-24T23:50:16.687552+00:00"
-    },
-    {
-      "job": "run_backlog_task",
-      "state": "Running",
-      "description": "Working on  item: Review: The future of DDEV with Stas Zhuk...",
-      "timestamp": "2026-02-24T23:49:21.191807+00:00"
     }
   ]
 }
