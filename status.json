@@ -1,9 +1,33 @@
 {
   "current_job": "run_backlog_task",
-  "state": "Success",
-  "description": "Completed item: Build: a reproducible Next.js AI-assisted rebuild benchmark to measure delivery ...",
-  "last_updated_utc": "2026-02-25T01:39:47.041613+00:00",
+  "state": "Failed",
+  "description": "Task failed with exit code 1.",
+  "last_updated_utc": "2026-02-25T02:05:48.931369+00:00",
   "history": [
+    {
+      "job": "run_backlog_task",
+      "state": "Failed",
+      "description": "Task failed with exit code 1.",
+      "timestamp": "2026-02-25T02:05:48.931369+00:00"
+    },
+    {
+      "job": "run_backlog_task",
+      "state": "Running",
+      "description": "Working on  item: Review: DDEV + WarpBuild in CI, including reproducible benchmarks and an adoptio...",
+      "timestamp": "2026-02-25T02:04:52.031280+00:00"
+    },
+    {
+      "job": "write_article",
+      "state": "Skipped",
+      "description": "Duplicate topic rejected: Drupal AI + SearXNG: Privacy-First Search Without SaaS Theat",
+      "timestamp": "2026-02-25T02:04:51.487610+00:00"
+    },
+    {
+      "job": "write_article",
+      "state": "Running",
+      "description": "Writing a new technical blog post: 2026-02-25-0204-devlog...",
+      "timestamp": "2026-02-25T02:04:07.481733+00:00"
+    },
     {
       "job": "run_backlog_task",
       "state": "Success",
@@ -39,30 +63,6 @@
       "state": "Running",
       "description": "Working on  item: Build: a Docker sandbox hardening baseline for running agentic tools securely, w...",
       "timestamp": "2026-02-25T00:55:19.942740+00:00"
-    },
-    {
-      "job": "run_backlog_task",
-      "state": "Success",
-      "description": "Completed item: Build: a DDEV CI acceleration playbook using WarpBuild with reproducible benchma...",
-      "timestamp": "2026-02-25T00:38:26.088263+00:00"
-    },
-    {
-      "job": "run_backlog_task",
-      "state": "Running",
-      "description": "Working on  item: Build: a DDEV CI acceleration playbook using WarpBuild with reproducible benchma...",
-      "timestamp": "2026-02-25T00:34:16.749528+00:00"
-    },
-    {
-      "job": "run_backlog_task",
-      "state": "Success",
-      "description": "Completed item: Review: Vault sprawl risk patterns and a practical secrets governance model for ...",
-      "timestamp": "2026-02-25T00:06:57.922735+00:00"
-    },
-    {
-      "job": "run_backlog_task",
-      "state": "Running",
-      "description": "Working on  item: Review: Vault sprawl risk patterns and a practical secrets governance model for ...",
-      "timestamp": "2026-02-25T00:03:57.629350+00:00"
     }
   ]
 }
