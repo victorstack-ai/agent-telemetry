@@ -2,13 +2,43 @@
   "current_job": "publish_telemetry",
   "state": "Running",
   "description": "Running publish_telemetry...",
-  "last_updated_utc": "2026-02-28T23:52:20.172Z",
+  "last_updated_utc": "2026-02-28T23:57:49.168Z",
   "history": [
     {
       "job": "publish_telemetry",
       "state": "Running",
       "description": "Running publish_telemetry...",
-      "timestamp": "2026-02-28T23:52:20.172Z"
+      "timestamp": "2026-02-28T23:57:49.168Z"
+    },
+    {
+      "job": "run_linkedin_agent",
+      "state": "Success",
+      "description": "Completed run_linkedin_agent (33.6s)",
+      "timestamp": "2026-02-28T23:53:19.071Z"
+    },
+    {
+      "job": "run_hashnode_agent",
+      "state": "Success",
+      "description": "Completed run_hashnode_agent (1.4s)",
+      "timestamp": "2026-02-28T23:52:45.405Z"
+    },
+    {
+      "job": "run_devto_agent",
+      "state": "Success",
+      "description": "Completed run_devto_agent (0.7s)",
+      "timestamp": "2026-02-28T23:52:43.889Z"
+    },
+    {
+      "job": "write_article",
+      "state": "Success",
+      "description": "Completed write_article (20.2s)",
+      "timestamp": "2026-02-28T23:52:43.058Z"
+    },
+    {
+      "job": "publish_telemetry",
+      "state": "Success",
+      "description": "Completed publish_telemetry (2.7s)",
+      "timestamp": "2026-02-28T23:52:22.858Z"
     },
     {
       "job": "clean_backlog_low_value",
@@ -33,36 +63,6 @@
       "state": "Success",
       "description": "Completed fetch_learning (35.7s)",
       "timestamp": "2026-02-28T23:51:50.144Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (2.8s)",
-      "timestamp": "2026-02-28T23:47:14.329Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (2.8s)",
-      "timestamp": "2026-02-28T23:42:11.370Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (3.2s)",
-      "timestamp": "2026-02-28T23:37:08.507Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (2.7s)",
-      "timestamp": "2026-02-28T23:32:05.155Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (2.9s)",
-      "timestamp": "2026-02-28T23:27:02.371Z"
     }
   ]
 }
