@@ -2,67 +2,67 @@
   "current_job": "publish_telemetry",
   "state": "Running",
   "description": "Running publish_telemetry...",
-  "last_updated_utc": "2026-02-28T09:26:30.532Z",
+  "last_updated_utc": "2026-02-28T09:31:59.041Z",
   "history": [
     {
       "job": "publish_telemetry",
       "state": "Running",
       "description": "Running publish_telemetry...",
-      "timestamp": "2026-02-28T09:26:30.532Z"
+      "timestamp": "2026-02-28T09:31:59.041Z"
+    },
+    {
+      "job": "clean_backlog_low_value",
+      "state": "Success",
+      "description": "Completed clean_backlog_low_value (0.0s)",
+      "timestamp": "2026-02-28T09:30:59.038Z"
+    },
+    {
+      "job": "clean_backlog_low_value",
+      "state": "Running",
+      "description": "Running clean_backlog_low_value...",
+      "timestamp": "2026-02-28T09:30:59.011Z"
+    },
+    {
+      "job": "feed_backlog",
+      "state": "Success",
+      "description": "Completed feed_backlog (0.0s)",
+      "timestamp": "2026-02-28T09:30:59.010Z"
+    },
+    {
+      "job": "feed_backlog",
+      "state": "Running",
+      "description": "Running feed_backlog...",
+      "timestamp": "2026-02-28T09:30:59.001Z"
+    },
+    {
+      "job": "clean_to_add",
+      "state": "Success",
+      "description": "Completed clean_to_add (0.0s)",
+      "timestamp": "2026-02-28T09:30:28.999Z"
+    },
+    {
+      "job": "clean_to_add",
+      "state": "Running",
+      "description": "Running clean_to_add...",
+      "timestamp": "2026-02-28T09:30:28.996Z"
+    },
+    {
+      "job": "fetch_learning",
+      "state": "Success",
+      "description": "Completed fetch_learning (26.4s)",
+      "timestamp": "2026-02-28T09:30:28.996Z"
+    },
+    {
+      "job": "fetch_learning",
+      "state": "Running",
+      "description": "Running fetch_learning...",
+      "timestamp": "2026-02-28T09:30:02.641Z"
     },
     {
       "job": "publish_telemetry",
       "state": "Success",
       "description": "Completed publish_telemetry (2.2s)",
-      "timestamp": "2026-02-28T09:21:30.423Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Running",
-      "description": "Running publish_telemetry...",
-      "timestamp": "2026-02-28T09:21:28.268Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (2.4s)",
-      "timestamp": "2026-02-28T09:16:28.250Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Running",
-      "description": "Running publish_telemetry...",
-      "timestamp": "2026-02-28T09:16:25.839Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (2.6s)",
-      "timestamp": "2026-02-28T09:11:25.701Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Running",
-      "description": "Running publish_telemetry...",
-      "timestamp": "2026-02-28T09:11:23.148Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (2.4s)",
-      "timestamp": "2026-02-28T09:06:23.045Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Running",
-      "description": "Running publish_telemetry...",
-      "timestamp": "2026-02-28T09:06:20.629Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (2.5s)",
-      "timestamp": "2026-02-28T09:01:20.511Z"
+      "timestamp": "2026-02-28T09:26:32.755Z"
     }
   ]
 }
