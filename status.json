@@ -2,8 +2,20 @@
   "current_job": "publish_telemetry",
   "state": "Running",
   "description": "Running publish_telemetry...",
-  "last_updated_utc": "2026-02-28T09:11:23.148Z",
+  "last_updated_utc": "2026-02-28T09:16:25.839Z",
   "history": [
+    {
+      "job": "publish_telemetry",
+      "state": "Running",
+      "description": "Running publish_telemetry...",
+      "timestamp": "2026-02-28T09:16:25.839Z"
+    },
+    {
+      "job": "publish_telemetry",
+      "state": "Success",
+      "description": "Completed publish_telemetry (2.6s)",
+      "timestamp": "2026-02-28T09:11:25.701Z"
+    },
     {
       "job": "publish_telemetry",
       "state": "Running",
