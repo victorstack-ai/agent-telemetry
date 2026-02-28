@@ -2,13 +2,37 @@
   "current_job": "publish_telemetry",
   "state": "Running",
   "description": "Running publish_telemetry...",
-  "last_updated_utc": "2026-02-28T14:06:27.897Z",
+  "last_updated_utc": "2026-02-28T14:11:55.475Z",
   "history": [
     {
       "job": "publish_telemetry",
       "state": "Running",
       "description": "Running publish_telemetry...",
-      "timestamp": "2026-02-28T14:06:27.897Z"
+      "timestamp": "2026-02-28T14:11:55.475Z"
+    },
+    {
+      "job": "feed_backlog",
+      "state": "Success",
+      "description": "Completed feed_backlog (0.0s)",
+      "timestamp": "2026-02-28T14:11:55.474Z"
+    },
+    {
+      "job": "clean_to_add",
+      "state": "Success",
+      "description": "Completed clean_to_add (0.0s)",
+      "timestamp": "2026-02-28T14:11:25.462Z"
+    },
+    {
+      "job": "fetch_learning",
+      "state": "Success",
+      "description": "Completed fetch_learning (25.0s)",
+      "timestamp": "2026-02-28T14:11:25.459Z"
+    },
+    {
+      "job": "publish_telemetry",
+      "state": "Success",
+      "description": "Completed publish_telemetry (2.5s)",
+      "timestamp": "2026-02-28T14:06:30.433Z"
     },
     {
       "job": "publish_telemetry",
@@ -39,30 +63,6 @@
       "state": "Success",
       "description": "Completed publish_telemetry (2.6s)",
       "timestamp": "2026-02-28T13:41:16.861Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (2.6s)",
-      "timestamp": "2026-02-28T13:36:14.141Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (2.5s)",
-      "timestamp": "2026-02-28T13:31:11.383Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (2.5s)",
-      "timestamp": "2026-02-28T13:26:08.831Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (2.5s)",
-      "timestamp": "2026-02-28T13:21:06.170Z"
     }
   ]
 }
