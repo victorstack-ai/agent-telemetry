@@ -1,9 +1,27 @@
 {
-  "current_job": "run_backlog_task",
+  "current_job": "publish_telemetry",
   "state": "Running",
-  "description": "Working on  item: Review: Responsive Favicons - Moderately critical - Cross-site scripting - SA-CO...",
-  "last_updated_utc": "2026-02-26T04:27:15.512194+00:00",
+  "description": "Running publish_telemetry...",
+  "last_updated_utc": "2026-02-28T08:29:59.228Z",
   "history": [
+    {
+      "job": "publish_telemetry",
+      "state": "Running",
+      "description": "Running publish_telemetry...",
+      "timestamp": "2026-02-28T08:29:59.228Z"
+    },
+    {
+      "job": "fetch_learning",
+      "state": "Success",
+      "description": "Completed fetch_learning (25.5s)",
+      "timestamp": "2026-02-28T08:29:59.228Z"
+    },
+    {
+      "job": "fetch_learning",
+      "state": "Running",
+      "description": "Running fetch_learning...",
+      "timestamp": "2026-02-28T08:29:33.720Z"
+    },
     {
       "job": "run_backlog_task",
       "state": "Running",
@@ -37,32 +55,14 @@
     {
       "job": "run_backlog_task",
       "state": "Success",
-      "description": "Completed item: Review: GitHub\u2019s multi-agent workflow failure modes and turn them into a practic...",
+      "description": "Completed item: Review: GitHub’s multi-agent workflow failure modes and turn them into a practic...",
       "timestamp": "2026-02-25T05:50:54.566139+00:00"
     },
     {
       "job": "run_backlog_task",
       "state": "Running",
-      "description": "Working on  item: Review: GitHub\u2019s multi-agent workflow failure modes and turn them into a practic...",
+      "description": "Working on  item: Review: GitHub’s multi-agent workflow failure modes and turn them into a practic...",
       "timestamp": "2026-02-25T05:49:47.102302+00:00"
-    },
-    {
-      "job": "run_backlog_task",
-      "state": "Success",
-      "description": "Completed item: Review: Security pitfalls Drupal module maintainers should avoid, with an action...",
-      "timestamp": "2026-02-25T05:32:38.206965+00:00"
-    },
-    {
-      "job": "run_backlog_task",
-      "state": "Running",
-      "description": "Working on  item: Review: Security pitfalls Drupal module maintainers should avoid, with an action...",
-      "timestamp": "2026-02-25T05:30:01.478682+00:00"
-    },
-    {
-      "job": "run_backlog_task",
-      "state": "Success",
-      "description": "Completed item: Build: DDEV CI acceleration playbook using WarpBuild with reproducible benchmark...",
-      "timestamp": "2026-02-25T05:14:52.635451+00:00"
     }
   ]
 }
