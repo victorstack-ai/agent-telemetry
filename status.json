@@ -2,13 +2,49 @@
   "current_job": "publish_telemetry",
   "state": "Running",
   "description": "Running publish_telemetry...",
-  "last_updated_utc": "2026-03-03T17:51:52.299Z",
+  "last_updated_utc": "2026-03-03T17:57:56.241Z",
   "history": [
     {
       "job": "publish_telemetry",
       "state": "Running",
       "description": "Running publish_telemetry...",
-      "timestamp": "2026-03-03T17:51:52.299Z"
+      "timestamp": "2026-03-03T17:57:56.241Z"
+    },
+    {
+      "job": "run_backlog_task",
+      "state": "Success",
+      "description": "Completed run_backlog_task (100.7s)",
+      "timestamp": "2026-03-03T17:57:26.149Z"
+    },
+    {
+      "job": "clean_backlog_low_value",
+      "state": "Success",
+      "description": "Completed clean_backlog_low_value (0.0s)",
+      "timestamp": "2026-03-03T17:54:15.432Z"
+    },
+    {
+      "job": "feed_backlog",
+      "state": "Success",
+      "description": "Completed feed_backlog (0.0s)",
+      "timestamp": "2026-03-03T17:54:15.398Z"
+    },
+    {
+      "job": "clean_to_add",
+      "state": "Success",
+      "description": "Completed clean_to_add (0.0s)",
+      "timestamp": "2026-03-03T17:53:45.377Z"
+    },
+    {
+      "job": "fetch_learning",
+      "state": "Success",
+      "description": "Completed fetch_learning (20.1s)",
+      "timestamp": "2026-03-03T17:53:45.372Z"
+    },
+    {
+      "job": "publish_telemetry",
+      "state": "Success",
+      "description": "Completed publish_telemetry (2.9s)",
+      "timestamp": "2026-03-03T17:51:55.188Z"
     },
     {
       "job": "process_backlog",
@@ -27,42 +63,6 @@
       "state": "Success",
       "description": "Completed publish_telemetry (2.8s)",
       "timestamp": "2026-03-03T17:46:27.072Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (2.8s)",
-      "timestamp": "2026-03-03T17:41:24.176Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (2.8s)",
-      "timestamp": "2026-03-03T17:36:21.191Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (2.8s)",
-      "timestamp": "2026-03-03T17:31:18.245Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (2.8s)",
-      "timestamp": "2026-03-03T17:26:15.302Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (2.8s)",
-      "timestamp": "2026-03-03T17:21:12.396Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (2.6s)",
-      "timestamp": "2026-03-03T17:16:09.507Z"
     }
   ]
 }
