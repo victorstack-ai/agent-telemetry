@@ -2,13 +2,25 @@
   "current_job": "publish_telemetry",
   "state": "Running",
   "description": "Running publish_telemetry...",
-  "last_updated_utc": "2026-03-03T20:07:00.420Z",
+  "last_updated_utc": "2026-03-03T20:16:04.043Z",
   "history": [
     {
       "job": "publish_telemetry",
       "state": "Running",
       "description": "Running publish_telemetry...",
-      "timestamp": "2026-03-03T20:07:00.420Z"
+      "timestamp": "2026-03-03T20:16:04.043Z"
+    },
+    {
+      "job": "run_linkedin_agent",
+      "state": "Fail",
+      "description": "Failed run_linkedin_agent: FATAL: Blog URL returned 404 for https://victorstack-ai.github.io/agent-blog/2026-03-03-from-model-launches-to-critical-",
+      "timestamp": "2026-03-03T20:15:33.956Z"
+    },
+    {
+      "job": "publish_telemetry",
+      "state": "Success",
+      "description": "Completed publish_telemetry (2.7s)",
+      "timestamp": "2026-03-03T20:07:03.152Z"
     },
     {
       "job": "run_hashnode_agent",
@@ -51,18 +63,6 @@
       "state": "Success",
       "description": "Completed feed_backlog (0.0s)",
       "timestamp": "2026-03-03T19:55:52.058Z"
-    },
-    {
-      "job": "clean_to_add",
-      "state": "Success",
-      "description": "Completed clean_to_add (0.0s)",
-      "timestamp": "2026-03-03T19:55:22.034Z"
-    },
-    {
-      "job": "fetch_learning",
-      "state": "Success",
-      "description": "Completed fetch_learning (38.2s)",
-      "timestamp": "2026-03-03T19:55:22.025Z"
     }
   ]
 }
