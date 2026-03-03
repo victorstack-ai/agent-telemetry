@@ -2,67 +2,67 @@
   "current_job": "publish_telemetry",
   "state": "Running",
   "description": "Running publish_telemetry...",
-  "last_updated_utc": "2026-03-03T11:49:01.799Z",
+  "last_updated_utc": "2026-03-03T11:56:12.969Z",
   "history": [
     {
       "job": "publish_telemetry",
       "state": "Running",
       "description": "Running publish_telemetry...",
-      "timestamp": "2026-03-03T11:49:01.799Z"
-    },
-    {
-      "job": "fetch_learning",
-      "state": "Success",
-      "description": "Completed fetch_learning (31.9s)",
-      "timestamp": "2026-03-03T11:49:01.799Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (2.6s)",
-      "timestamp": "2026-03-03T11:15:10.632Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (2.6s)",
-      "timestamp": "2026-03-03T11:10:07.884Z"
+      "timestamp": "2026-03-03T11:56:12.969Z"
     },
     {
       "job": "run_backlog_task",
       "state": "Success",
-      "description": "Completed run_backlog_task (224.1s)",
-      "timestamp": "2026-03-03T11:09:35.244Z"
+      "description": "Completed run_backlog_task (78.5s)",
+      "timestamp": "2026-03-03T11:55:42.957Z"
     },
     {
       "job": "run_linkedin_agent",
       "state": "Success",
-      "description": "Completed run_linkedin_agent (0.0s)",
-      "timestamp": "2026-03-03T11:05:51.144Z"
+      "description": "Completed run_linkedin_agent (184.4s)",
+      "timestamp": "2026-03-03T11:54:24.477Z"
     },
     {
       "job": "run_hashnode_agent",
       "state": "Success",
       "description": "Completed run_hashnode_agent (1.1s)",
-      "timestamp": "2026-03-03T11:05:51.023Z"
+      "timestamp": "2026-03-03T11:51:20.105Z"
     },
     {
       "job": "run_devto_agent",
       "state": "Success",
-      "description": "Completed run_devto_agent (1.0s)",
-      "timestamp": "2026-03-03T11:05:49.769Z"
+      "description": "Completed run_devto_agent (0.8s)",
+      "timestamp": "2026-03-03T11:51:18.876Z"
     },
     {
       "job": "write_article",
       "state": "Success",
-      "description": "Completed write_article (106.1s)",
-      "timestamp": "2026-03-03T11:05:48.668Z"
+      "description": "Completed write_article (110.8s)",
+      "timestamp": "2026-03-03T11:51:17.936Z"
     },
     {
       "job": "process_backlog",
       "state": "Success",
       "description": "Completed process_backlog (0.0s)",
-      "timestamp": "2026-03-03T11:04:02.530Z"
+      "timestamp": "2026-03-03T11:49:27.132Z"
+    },
+    {
+      "job": "clean_backlog_low_value",
+      "state": "Success",
+      "description": "Completed clean_backlog_low_value (0.0s)",
+      "timestamp": "2026-03-03T11:49:27.126Z"
+    },
+    {
+      "job": "feed_backlog",
+      "state": "Success",
+      "description": "Completed feed_backlog (0.0s)",
+      "timestamp": "2026-03-03T11:49:27.100Z"
+    },
+    {
+      "job": "feeder_agent",
+      "state": "Success",
+      "description": "Completed feeder_agent (22.6s)",
+      "timestamp": "2026-03-03T11:49:27.097Z"
     }
   ]
 }
