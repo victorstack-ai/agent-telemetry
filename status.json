@@ -2,13 +2,19 @@
   "current_job": "publish_telemetry",
   "state": "Running",
   "description": "Running publish_telemetry...",
-  "last_updated_utc": "2026-03-05T23:15:45.993Z",
+  "last_updated_utc": "2026-03-05T23:20:56.578Z",
   "history": [
     {
       "job": "publish_telemetry",
       "state": "Running",
       "description": "Running publish_telemetry...",
-      "timestamp": "2026-03-05T23:15:45.993Z"
+      "timestamp": "2026-03-05T23:20:56.578Z"
+    },
+    {
+      "job": "publish_telemetry",
+      "state": "Success",
+      "description": "Completed publish_telemetry (10.4s)",
+      "timestamp": "2026-03-05T23:15:56.434Z"
     },
     {
       "job": "clean_backlog_low_value",
@@ -57,12 +63,6 @@
       "state": "Success",
       "description": "Completed publish_telemetry (5.4s)",
       "timestamp": "2026-03-05T22:55:23.196Z"
-    },
-    {
-      "job": "run_linkedin_agent",
-      "state": "Fail",
-      "description": "Failed run_linkedin_agent: FATAL: Blog URL returned 404 for https://victorstack-ai.github.io/agent-blog/2026-03-05-ai-code-velocity-vs-security-rea",
-      "timestamp": "2026-03-05T22:54:47.658Z"
     }
   ]
 }
