@@ -2,13 +2,43 @@
   "current_job": "publish_telemetry",
   "state": "Running",
   "description": "Running publish_telemetry...",
-  "last_updated_utc": "2026-03-05T22:10:46.683Z",
+  "last_updated_utc": "2026-03-05T22:16:02.821Z",
   "history": [
     {
       "job": "publish_telemetry",
       "state": "Running",
       "description": "Running publish_telemetry...",
-      "timestamp": "2026-03-05T22:10:46.683Z"
+      "timestamp": "2026-03-05T22:16:02.821Z"
+    },
+    {
+      "job": "clean_backlog_low_value",
+      "state": "Success",
+      "description": "Completed clean_backlog_low_value (0.0s)",
+      "timestamp": "2026-03-05T22:13:32.778Z"
+    },
+    {
+      "job": "feed_backlog",
+      "state": "Success",
+      "description": "Completed feed_backlog (0.0s)",
+      "timestamp": "2026-03-05T22:13:32.747Z"
+    },
+    {
+      "job": "clean_to_add",
+      "state": "Success",
+      "description": "Completed clean_to_add (0.0s)",
+      "timestamp": "2026-03-05T22:13:32.739Z"
+    },
+    {
+      "job": "fetch_learning",
+      "state": "Success",
+      "description": "Completed fetch_learning (70.0s)",
+      "timestamp": "2026-03-05T22:13:02.728Z"
+    },
+    {
+      "job": "publish_telemetry",
+      "state": "Success",
+      "description": "Completed publish_telemetry (6.0s)",
+      "timestamp": "2026-03-05T22:10:52.713Z"
     },
     {
       "job": "publish_telemetry",
@@ -33,36 +63,6 @@
       "state": "Success",
       "description": "Completed publish_telemetry (2.6s)",
       "timestamp": "2026-03-05T21:50:27.563Z"
-    },
-    {
-      "job": "run_linkedin_agent",
-      "state": "Fail",
-      "description": "Failed run_linkedin_agent: FATAL: Blog URL returned 404 for https://victorstack-ai.github.io/agent-blog/2026-03-05-from-ai-code-review-to-kev-triag",
-      "timestamp": "2026-03-05T21:49:54.863Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (5.7s)",
-      "timestamp": "2026-03-05T21:44:24.285Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (6.8s)",
-      "timestamp": "2026-03-05T21:39:18.486Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (2.5s)",
-      "timestamp": "2026-03-05T21:34:11.575Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (2.7s)",
-      "timestamp": "2026-03-05T21:29:08.931Z"
     }
   ]
 }
