@@ -2,13 +2,43 @@
   "current_job": "publish_telemetry",
   "state": "Running",
   "description": "Running publish_telemetry...",
-  "last_updated_utc": "2026-03-05T15:09:17.193Z",
+  "last_updated_utc": "2026-03-05T15:16:19.261Z",
   "history": [
     {
       "job": "publish_telemetry",
       "state": "Running",
       "description": "Running publish_telemetry...",
-      "timestamp": "2026-03-05T15:09:17.193Z"
+      "timestamp": "2026-03-05T15:16:19.261Z"
+    },
+    {
+      "job": "run_hashnode_agent",
+      "state": "Success",
+      "description": "Completed run_hashnode_agent (2.1s)",
+      "timestamp": "2026-03-05T15:16:19.257Z"
+    },
+    {
+      "job": "run_devto_agent",
+      "state": "Success",
+      "description": "Completed run_devto_agent (0.6s)",
+      "timestamp": "2026-03-05T15:15:47.058Z"
+    },
+    {
+      "job": "write_article",
+      "state": "Success",
+      "description": "Completed write_article (108.3s)",
+      "timestamp": "2026-03-05T15:15:46.325Z"
+    },
+    {
+      "job": "run_backlog_task",
+      "state": "Success",
+      "description": "Completed run_backlog_task (127.9s)",
+      "timestamp": "2026-03-05T15:12:57.978Z"
+    },
+    {
+      "job": "publish_telemetry",
+      "state": "Success",
+      "description": "Completed publish_telemetry (2.9s)",
+      "timestamp": "2026-03-05T15:09:20.055Z"
     },
     {
       "job": "clean_backlog_low_value",
@@ -33,36 +63,6 @@
       "state": "Success",
       "description": "Completed fetch_learning (23.8s)",
       "timestamp": "2026-03-05T15:06:47.111Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (3.0s)",
-      "timestamp": "2026-03-05T15:03:53.192Z"
-    },
-    {
-      "job": "feeder_agent",
-      "state": "Success",
-      "description": "Completed feeder_agent (52.5s)",
-      "timestamp": "2026-03-05T15:03:20.199Z"
-    },
-    {
-      "job": "process_backlog",
-      "state": "Success",
-      "description": "Completed process_backlog (0.0s)",
-      "timestamp": "2026-03-05T15:02:27.621Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (2.7s)",
-      "timestamp": "2026-03-05T14:58:27.562Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (2.8s)",
-      "timestamp": "2026-03-05T14:53:24.699Z"
     }
   ]
 }
