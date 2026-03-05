@@ -2,13 +2,37 @@
   "current_job": "publish_telemetry",
   "state": "Running",
   "description": "Running publish_telemetry...",
-  "last_updated_utc": "2026-03-05T18:09:08.784Z",
+  "last_updated_utc": "2026-03-05T18:14:11.680Z",
   "history": [
     {
       "job": "publish_telemetry",
       "state": "Running",
       "description": "Running publish_telemetry...",
-      "timestamp": "2026-03-05T18:09:08.784Z"
+      "timestamp": "2026-03-05T18:14:11.680Z"
+    },
+    {
+      "job": "clean_backlog_low_value",
+      "state": "Success",
+      "description": "Completed clean_backlog_low_value (0.0s)",
+      "timestamp": "2026-03-05T18:09:41.518Z"
+    },
+    {
+      "job": "feed_backlog",
+      "state": "Success",
+      "description": "Completed feed_backlog (0.0s)",
+      "timestamp": "2026-03-05T18:09:41.481Z"
+    },
+    {
+      "job": "clean_to_add",
+      "state": "Success",
+      "description": "Completed clean_to_add (0.0s)",
+      "timestamp": "2026-03-05T18:09:11.463Z"
+    },
+    {
+      "job": "publish_telemetry",
+      "state": "Success",
+      "description": "Completed publish_telemetry (2.7s)",
+      "timestamp": "2026-03-05T18:09:11.455Z"
     },
     {
       "job": "fetch_learning",
@@ -39,30 +63,6 @@
       "state": "Success",
       "description": "Completed publish_telemetry (2.6s)",
       "timestamp": "2026-03-05T17:47:56.564Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (2.7s)",
-      "timestamp": "2026-03-05T17:42:53.844Z"
-    },
-    {
-      "job": "run_linkedin_agent",
-      "state": "Fail",
-      "description": "Failed run_linkedin_agent: FATAL: Blog URL returned 404 for https://victorstack-ai.github.io/agent-blog/2026-03-05-operational-ai-reality-check-dru",
-      "timestamp": "2026-03-05T17:42:21.040Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (2.7s)",
-      "timestamp": "2026-03-05T17:35:20.462Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (2.5s)",
-      "timestamp": "2026-03-05T17:30:17.557Z"
     }
   ]
 }
