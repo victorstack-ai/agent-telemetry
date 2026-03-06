@@ -2,13 +2,31 @@
   "current_job": "publish_telemetry",
   "state": "Running",
   "description": "Running publish_telemetry...",
-  "last_updated_utc": "2026-03-06T06:19:52.059Z",
+  "last_updated_utc": "2026-03-06T06:29:01.538Z",
   "history": [
     {
       "job": "publish_telemetry",
       "state": "Running",
       "description": "Running publish_telemetry...",
-      "timestamp": "2026-03-06T06:19:52.059Z"
+      "timestamp": "2026-03-06T06:29:01.538Z"
+    },
+    {
+      "job": "fetch_learning",
+      "state": "Success",
+      "description": "Completed fetch_learning (36.2s)",
+      "timestamp": "2026-03-06T06:29:01.537Z"
+    },
+    {
+      "job": "run_linkedin_agent",
+      "state": "Fail",
+      "description": "Failed run_linkedin_agent: FATAL: Blog URL returned 404 for https://victorstack-ai.github.io/agent-blog/2026-03-06-gpt-5-4-lands-drupal-patch-windo",
+      "timestamp": "2026-03-06T06:27:55.221Z"
+    },
+    {
+      "job": "publish_telemetry",
+      "state": "Success",
+      "description": "Completed publish_telemetry (2.5s)",
+      "timestamp": "2026-03-06T06:19:54.609Z"
     },
     {
       "job": "publish_telemetry",
@@ -45,24 +63,6 @@
       "state": "Success",
       "description": "Completed publish_telemetry (2.6s)",
       "timestamp": "2026-03-06T05:49:38.423Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (2.6s)",
-      "timestamp": "2026-03-06T05:44:35.626Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (2.7s)",
-      "timestamp": "2026-03-06T05:39:32.897Z"
-    },
-    {
-      "job": "run_hashnode_agent",
-      "state": "Success",
-      "description": "Completed run_hashnode_agent (3.5s)",
-      "timestamp": "2026-03-06T05:39:00.211Z"
     }
   ]
 }
