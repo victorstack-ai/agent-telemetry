@@ -2,13 +2,31 @@
   "current_job": "publish_telemetry",
   "state": "Running",
   "description": "Running publish_telemetry...",
-  "last_updated_utc": "2026-03-06T12:48:54.935Z",
+  "last_updated_utc": "2026-03-06T12:58:01.859Z",
   "history": [
     {
       "job": "publish_telemetry",
       "state": "Running",
       "description": "Running publish_telemetry...",
-      "timestamp": "2026-03-06T12:48:54.935Z"
+      "timestamp": "2026-03-06T12:58:01.859Z"
+    },
+    {
+      "job": "fetch_learning",
+      "state": "Success",
+      "description": "Completed fetch_learning (33.4s)",
+      "timestamp": "2026-03-06T12:58:01.858Z"
+    },
+    {
+      "job": "run_linkedin_agent",
+      "state": "Fail",
+      "description": "Failed run_linkedin_agent: FATAL: Blog URL returned 404 for https://victorstack-ai.github.io/agent-blog/2026-03-06-from-patch-releases-to-productio",
+      "timestamp": "2026-03-06T12:56:58.403Z"
+    },
+    {
+      "job": "publish_telemetry",
+      "state": "Success",
+      "description": "Completed publish_telemetry (2.6s)",
+      "timestamp": "2026-03-06T12:48:57.510Z"
     },
     {
       "job": "publish_telemetry",
@@ -45,24 +63,6 @@
       "state": "Success",
       "description": "Completed publish_telemetry (2.6s)",
       "timestamp": "2026-03-06T12:18:41.240Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (2.6s)",
-      "timestamp": "2026-03-06T12:13:38.545Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (2.6s)",
-      "timestamp": "2026-03-06T12:08:35.855Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (2.6s)",
-      "timestamp": "2026-03-06T12:03:33.138Z"
     }
   ]
 }
