@@ -2,13 +2,25 @@
   "current_job": "publish_telemetry",
   "state": "Running",
   "description": "Running publish_telemetry...",
-  "last_updated_utc": "2026-03-06T00:56:20.919Z",
+  "last_updated_utc": "2026-03-06T01:04:54.165Z",
   "history": [
     {
       "job": "publish_telemetry",
       "state": "Running",
       "description": "Running publish_telemetry...",
-      "timestamp": "2026-03-06T00:56:20.919Z"
+      "timestamp": "2026-03-06T01:04:54.165Z"
+    },
+    {
+      "job": "run_linkedin_agent",
+      "state": "Fail",
+      "description": "Failed run_linkedin_agent: FATAL: Blog URL returned 404 for https://victorstack-ai.github.io/agent-blog/2026-03-06-from-patch-releases-to-attack-te",
+      "timestamp": "2026-03-06T01:04:24.070Z"
+    },
+    {
+      "job": "publish_telemetry",
+      "state": "Success",
+      "description": "Completed publish_telemetry (2.5s)",
+      "timestamp": "2026-03-06T00:56:23.400Z"
     },
     {
       "job": "publish_telemetry",
@@ -51,18 +63,6 @@
       "state": "Success",
       "description": "Completed write_article (106.4s)",
       "timestamp": "2026-03-06T00:33:06.377Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (2.6s)",
-      "timestamp": "2026-03-06T00:30:49.970Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (2.6s)",
-      "timestamp": "2026-03-06T00:25:47.232Z"
     }
   ]
 }
