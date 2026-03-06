@@ -2,13 +2,55 @@
   "current_job": "publish_telemetry",
   "state": "Running",
   "description": "Running publish_telemetry...",
-  "last_updated_utc": "2026-03-06T14:02:45.346Z",
+  "last_updated_utc": "2026-03-06T14:07:56.195Z",
   "history": [
     {
       "job": "publish_telemetry",
       "state": "Running",
       "description": "Running publish_telemetry...",
-      "timestamp": "2026-03-06T14:02:45.346Z"
+      "timestamp": "2026-03-06T14:07:56.195Z"
+    },
+    {
+      "job": "run_hashnode_agent",
+      "state": "Success",
+      "description": "Completed run_hashnode_agent (2.0s)",
+      "timestamp": "2026-03-06T14:04:56.061Z"
+    },
+    {
+      "job": "run_devto_agent",
+      "state": "Success",
+      "description": "Completed run_devto_agent (1.1s)",
+      "timestamp": "2026-03-06T14:04:53.928Z"
+    },
+    {
+      "job": "write_article",
+      "state": "Success",
+      "description": "Completed write_article (124.8s)",
+      "timestamp": "2026-03-06T14:04:52.705Z"
+    },
+    {
+      "job": "clean_backlog_low_value",
+      "state": "Success",
+      "description": "Completed clean_backlog_low_value (0.0s)",
+      "timestamp": "2026-03-06T14:02:47.876Z"
+    },
+    {
+      "job": "feed_backlog",
+      "state": "Success",
+      "description": "Completed feed_backlog (0.0s)",
+      "timestamp": "2026-03-06T14:02:47.852Z"
+    },
+    {
+      "job": "clean_to_add",
+      "state": "Success",
+      "description": "Completed clean_to_add (0.0s)",
+      "timestamp": "2026-03-06T14:02:47.841Z"
+    },
+    {
+      "job": "publish_telemetry",
+      "state": "Success",
+      "description": "Completed publish_telemetry (2.5s)",
+      "timestamp": "2026-03-06T14:02:47.834Z"
     },
     {
       "job": "fetch_learning",
@@ -21,48 +63,6 @@
       "state": "Fail",
       "description": "Failed run_linkedin_agent: FATAL: Blog URL returned 404 for https://victorstack-ai.github.io/agent-blog/2026-03-06-from-patch-releases-to-productio",
       "timestamp": "2026-03-06T14:01:37.243Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (2.5s)",
-      "timestamp": "2026-03-06T13:53:36.625Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (2.5s)",
-      "timestamp": "2026-03-06T13:48:33.964Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (2.5s)",
-      "timestamp": "2026-03-06T13:43:31.337Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (2.5s)",
-      "timestamp": "2026-03-06T13:38:28.745Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (2.5s)",
-      "timestamp": "2026-03-06T13:33:26.079Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (2.6s)",
-      "timestamp": "2026-03-06T13:28:23.506Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (2.5s)",
-      "timestamp": "2026-03-06T13:23:20.755Z"
     }
   ]
 }
