@@ -2,67 +2,67 @@
   "current_job": "publish_telemetry",
   "state": "Running",
   "description": "Running publish_telemetry...",
-  "last_updated_utc": "2026-03-07T04:28:54.433Z",
+  "last_updated_utc": "2026-03-07T17:01:47.568Z",
   "history": [
     {
       "job": "publish_telemetry",
       "state": "Running",
       "description": "Running publish_telemetry...",
-      "timestamp": "2026-03-07T04:28:54.433Z"
+      "timestamp": "2026-03-07T17:01:47.568Z"
     },
     {
-      "job": "run_linkedin_agent",
+      "job": "fetch_learning",
       "state": "Success",
-      "description": "Completed run_linkedin_agent (1301.7s)",
-      "timestamp": "2026-03-07T04:28:24.296Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (2.7s)",
-      "timestamp": "2026-03-07T04:06:42.516Z"
-    },
-    {
-      "job": "run_hashnode_agent",
-      "state": "Success",
-      "description": "Completed run_hashnode_agent (2.3s)",
-      "timestamp": "2026-03-07T03:50:50.582Z"
-    },
-    {
-      "job": "run_devto_agent",
-      "state": "Success",
-      "description": "Completed run_devto_agent (0.7s)",
-      "timestamp": "2026-03-07T03:50:48.221Z"
-    },
-    {
-      "job": "write_article",
-      "state": "Success",
-      "description": "Completed write_article (0.0s)",
-      "timestamp": "2026-03-07T03:50:47.387Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (2.6s)",
-      "timestamp": "2026-03-07T03:50:47.361Z"
+      "description": "Completed fetch_learning (39.7s)",
+      "timestamp": "2026-03-07T17:01:47.567Z"
     },
     {
       "job": "clean_backlog_low_value",
       "state": "Success",
       "description": "Completed clean_backlog_low_value (0.0s)",
-      "timestamp": "2026-03-07T03:35:21.456Z"
+      "timestamp": "2026-03-07T16:15:43.990Z"
     },
     {
       "job": "feed_backlog",
       "state": "Success",
       "description": "Completed feed_backlog (0.0s)",
-      "timestamp": "2026-03-07T03:35:21.428Z"
+      "timestamp": "2026-03-07T16:15:43.983Z"
+    },
+    {
+      "job": "clean_to_add",
+      "state": "Success",
+      "description": "Completed clean_to_add (0.1s)",
+      "timestamp": "2026-03-07T16:15:43.980Z"
+    },
+    {
+      "job": "clean_backlog_low_value",
+      "state": "Success",
+      "description": "Completed clean_backlog_low_value (0.0s)",
+      "timestamp": "2026-03-07T15:14:43.973Z"
+    },
+    {
+      "job": "feed_backlog",
+      "state": "Success",
+      "description": "Completed feed_backlog (0.0s)",
+      "timestamp": "2026-03-07T15:14:43.968Z"
     },
     {
       "job": "clean_to_add",
       "state": "Success",
       "description": "Completed clean_to_add (0.0s)",
-      "timestamp": "2026-03-07T03:35:21.420Z"
+      "timestamp": "2026-03-07T15:14:43.942Z"
+    },
+    {
+      "job": "clean_backlog_low_value",
+      "state": "Success",
+      "description": "Completed clean_backlog_low_value (0.0s)",
+      "timestamp": "2026-03-07T14:13:43.961Z"
+    },
+    {
+      "job": "feed_backlog",
+      "state": "Success",
+      "description": "Completed feed_backlog (0.0s)",
+      "timestamp": "2026-03-07T14:13:43.955Z"
     }
   ]
 }
