@@ -2,13 +2,19 @@
   "current_job": "publish_telemetry",
   "state": "Running",
   "description": "Running publish_telemetry...",
-  "last_updated_utc": "2026-03-07T00:40:25.017Z",
+  "last_updated_utc": "2026-03-07T00:45:28.308Z",
   "history": [
     {
       "job": "publish_telemetry",
       "state": "Running",
       "description": "Running publish_telemetry...",
-      "timestamp": "2026-03-07T00:40:25.017Z"
+      "timestamp": "2026-03-07T00:45:28.308Z"
+    },
+    {
+      "job": "publish_telemetry",
+      "state": "Success",
+      "description": "Completed publish_telemetry (3.2s)",
+      "timestamp": "2026-03-07T00:40:28.178Z"
     },
     {
       "job": "publish_telemetry",
@@ -57,12 +63,6 @@
       "state": "Fail",
       "description": "Failed run_linkedin_agent: FATAL: Blog URL returned 404 for https://victorstack-ai.github.io/agent-blog/2026-03-07-release-discipline-over-ai-hype-",
       "timestamp": "2026-03-07T00:08:52.073Z"
-    },
-    {
-      "job": "run_hashnode_agent",
-      "state": "Success",
-      "description": "Completed run_hashnode_agent (2.0s)",
-      "timestamp": "2026-03-07T00:04:21.107Z"
     }
   ]
 }
