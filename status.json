@@ -2,67 +2,67 @@
   "current_job": "publish_telemetry",
   "state": "Running",
   "description": "Running publish_telemetry...",
-  "last_updated_utc": "2026-03-07T00:02:06.087Z",
+  "last_updated_utc": "2026-03-07T00:10:08.335Z",
   "history": [
     {
       "job": "publish_telemetry",
       "state": "Running",
       "description": "Running publish_telemetry...",
-      "timestamp": "2026-03-07T00:02:06.087Z"
+      "timestamp": "2026-03-07T00:10:08.335Z"
     },
     {
-      "job": "fetch_learning",
+      "job": "run_backlog_task",
       "state": "Success",
-      "description": "Completed fetch_learning (47.6s)",
-      "timestamp": "2026-03-07T00:02:06.086Z"
+      "description": "Completed run_backlog_task (46.1s)",
+      "timestamp": "2026-03-07T00:09:38.245Z"
     },
     {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (0.3s)",
-      "timestamp": "2026-03-06T14:43:16.774Z"
+      "job": "run_linkedin_agent",
+      "state": "Fail",
+      "description": "Failed run_linkedin_agent: FATAL: Blog URL returned 404 for https://victorstack-ai.github.io/agent-blog/2026-03-07-release-discipline-over-ai-hype-",
+      "timestamp": "2026-03-07T00:08:52.073Z"
     },
     {
-      "job": "publish_telemetry",
+      "job": "run_hashnode_agent",
       "state": "Success",
-      "description": "Completed publish_telemetry (3.3s)",
-      "timestamp": "2026-03-06T14:38:16.360Z"
+      "description": "Completed run_hashnode_agent (2.0s)",
+      "timestamp": "2026-03-07T00:04:21.107Z"
     },
     {
-      "job": "publish_telemetry",
+      "job": "run_devto_agent",
       "state": "Success",
-      "description": "Completed publish_telemetry (2.6s)",
-      "timestamp": "2026-03-06T14:33:12.876Z"
+      "description": "Completed run_devto_agent (0.9s)",
+      "timestamp": "2026-03-07T00:04:19.016Z"
     },
     {
-      "job": "publish_telemetry",
+      "job": "write_article",
       "state": "Success",
-      "description": "Completed publish_telemetry (2.6s)",
-      "timestamp": "2026-03-06T14:28:10.176Z"
+      "description": "Completed write_article (90.8s)",
+      "timestamp": "2026-03-07T00:04:18.022Z"
     },
     {
-      "job": "publish_telemetry",
+      "job": "process_backlog",
       "state": "Success",
-      "description": "Completed publish_telemetry (2.5s)",
-      "timestamp": "2026-03-06T14:23:07.421Z"
+      "description": "Completed process_backlog (0.0s)",
+      "timestamp": "2026-03-07T00:02:47.254Z"
     },
     {
-      "job": "publish_telemetry",
+      "job": "clean_backlog_low_value",
       "state": "Success",
-      "description": "Completed publish_telemetry (2.9s)",
-      "timestamp": "2026-03-06T14:18:04.759Z"
+      "description": "Completed clean_backlog_low_value (0.0s)",
+      "timestamp": "2026-03-07T00:02:47.250Z"
     },
     {
-      "job": "publish_telemetry",
+      "job": "feed_backlog",
       "state": "Success",
-      "description": "Completed publish_telemetry (2.7s)",
-      "timestamp": "2026-03-06T14:13:01.761Z"
+      "description": "Completed feed_backlog (0.0s)",
+      "timestamp": "2026-03-07T00:02:47.228Z"
     },
     {
-      "job": "publish_telemetry",
+      "job": "feeder_agent",
       "state": "Success",
-      "description": "Completed publish_telemetry (2.8s)",
-      "timestamp": "2026-03-06T14:07:58.956Z"
+      "description": "Completed feeder_agent (37.9s)",
+      "timestamp": "2026-03-07T00:02:47.225Z"
     }
   ]
 }
