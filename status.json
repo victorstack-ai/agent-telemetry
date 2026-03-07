@@ -2,13 +2,55 @@
   "current_job": "publish_telemetry",
   "state": "Running",
   "description": "Running publish_telemetry...",
-  "last_updated_utc": "2026-03-07T02:23:58.324Z",
+  "last_updated_utc": "2026-03-07T02:40:39.201Z",
   "history": [
     {
       "job": "publish_telemetry",
       "state": "Running",
       "description": "Running publish_telemetry...",
-      "timestamp": "2026-03-07T02:23:58.324Z"
+      "timestamp": "2026-03-07T02:40:39.201Z"
+    },
+    {
+      "job": "run_hashnode_agent",
+      "state": "Success",
+      "description": "Completed run_hashnode_agent (2.4s)",
+      "timestamp": "2026-03-07T02:40:09.097Z"
+    },
+    {
+      "job": "run_devto_agent",
+      "state": "Success",
+      "description": "Completed run_devto_agent (0.8s)",
+      "timestamp": "2026-03-07T02:40:06.576Z"
+    },
+    {
+      "job": "write_article",
+      "state": "Success",
+      "description": "Completed write_article (964.1s)",
+      "timestamp": "2026-03-07T02:40:05.167Z"
+    },
+    {
+      "job": "clean_backlog_low_value",
+      "state": "Success",
+      "description": "Completed clean_backlog_low_value (0.0s)",
+      "timestamp": "2026-03-07T02:24:01.067Z"
+    },
+    {
+      "job": "feed_backlog",
+      "state": "Success",
+      "description": "Completed feed_backlog (0.0s)",
+      "timestamp": "2026-03-07T02:24:01.037Z"
+    },
+    {
+      "job": "clean_to_add",
+      "state": "Success",
+      "description": "Completed clean_to_add (0.0s)",
+      "timestamp": "2026-03-07T02:24:01.029Z"
+    },
+    {
+      "job": "publish_telemetry",
+      "state": "Success",
+      "description": "Completed publish_telemetry (2.7s)",
+      "timestamp": "2026-03-07T02:24:01.020Z"
     },
     {
       "job": "fetch_learning",
@@ -21,48 +63,6 @@
       "state": "Success",
       "description": "Completed publish_telemetry (2.6s)",
       "timestamp": "2026-03-07T01:51:36.943Z"
-    },
-    {
-      "job": "run_linkedin_agent",
-      "state": "Fail",
-      "description": "Failed run_linkedin_agent: waitUntilFinished timed out after 1860s",
-      "timestamp": "2026-03-07T01:51:04.107Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (2.7s)",
-      "timestamp": "2026-03-07T01:08:33.125Z"
-    },
-    {
-      "job": "run_hashnode_agent",
-      "state": "Success",
-      "description": "Completed run_hashnode_agent (2.1s)",
-      "timestamp": "2026-03-07T01:06:25.030Z"
-    },
-    {
-      "job": "run_devto_agent",
-      "state": "Success",
-      "description": "Completed run_devto_agent (0.8s)",
-      "timestamp": "2026-03-07T01:06:22.794Z"
-    },
-    {
-      "job": "write_article",
-      "state": "Success",
-      "description": "Completed write_article (103.0s)",
-      "timestamp": "2026-03-07T01:06:21.931Z"
-    },
-    {
-      "job": "clean_backlog_low_value",
-      "state": "Success",
-      "description": "Completed clean_backlog_low_value (0.0s)",
-      "timestamp": "2026-03-07T01:03:38.938Z"
-    },
-    {
-      "job": "feed_backlog",
-      "state": "Success",
-      "description": "Completed feed_backlog (0.0s)",
-      "timestamp": "2026-03-07T01:03:38.891Z"
     }
   ]
 }
