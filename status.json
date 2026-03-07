@@ -2,13 +2,25 @@
   "current_job": "publish_telemetry",
   "state": "Running",
   "description": "Running publish_telemetry...",
-  "last_updated_utc": "2026-03-07T04:06:39.847Z",
+  "last_updated_utc": "2026-03-07T04:28:54.433Z",
   "history": [
     {
       "job": "publish_telemetry",
       "state": "Running",
       "description": "Running publish_telemetry...",
-      "timestamp": "2026-03-07T04:06:39.847Z"
+      "timestamp": "2026-03-07T04:28:54.433Z"
+    },
+    {
+      "job": "run_linkedin_agent",
+      "state": "Success",
+      "description": "Completed run_linkedin_agent (1301.7s)",
+      "timestamp": "2026-03-07T04:28:24.296Z"
+    },
+    {
+      "job": "publish_telemetry",
+      "state": "Success",
+      "description": "Completed publish_telemetry (2.7s)",
+      "timestamp": "2026-03-07T04:06:42.516Z"
     },
     {
       "job": "run_hashnode_agent",
@@ -51,18 +63,6 @@
       "state": "Success",
       "description": "Completed clean_to_add (0.0s)",
       "timestamp": "2026-03-07T03:35:21.420Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (2.7s)",
-      "timestamp": "2026-03-07T03:35:21.411Z"
-    },
-    {
-      "job": "fetch_learning",
-      "state": "Success",
-      "description": "Completed fetch_learning (39.7s)",
-      "timestamp": "2026-03-07T03:35:18.667Z"
     }
   ]
 }
