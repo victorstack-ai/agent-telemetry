@@ -2,67 +2,67 @@
   "current_job": "publish_telemetry",
   "state": "Running",
   "description": "Running publish_telemetry...",
-  "last_updated_utc": "2026-03-08T19:45:07.061Z",
+  "last_updated_utc": "2026-03-08T20:25:41.690Z",
   "history": [
     {
       "job": "publish_telemetry",
       "state": "Running",
       "description": "Running publish_telemetry...",
-      "timestamp": "2026-03-08T19:45:07.061Z"
+      "timestamp": "2026-03-08T20:25:41.690Z"
     },
     {
       "job": "fetch_learning",
       "state": "Success",
-      "description": "Completed fetch_learning (25.0s)",
-      "timestamp": "2026-03-08T19:45:07.060Z"
+      "description": "Completed fetch_learning (37.5s)",
+      "timestamp": "2026-03-08T20:25:41.688Z"
     },
     {
-      "job": "fetch_learning",
+      "job": "run_backlog_task",
       "state": "Success",
-      "description": "Completed fetch_learning (43.3s)",
-      "timestamp": "2026-03-08T19:44:26.822Z"
+      "description": "Completed run_backlog_task (618.9s)",
+      "timestamp": "2026-03-08T20:09:48.525Z"
     },
     {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (2.9s)",
-      "timestamp": "2026-03-08T19:13:46.477Z"
+      "job": "run_linkedin_agent",
+      "state": "Fail",
+      "description": "Failed run_linkedin_agent: FATAL: Blog URL returned 404 for https://victorstack-ai.github.io/agent-blog/2026-03-08-firefox-hardening-red-team-brows",
+      "timestamp": "2026-03-08T19:59:29.588Z"
     },
     {
-      "job": "publish_telemetry",
+      "job": "run_backlog_task_building",
       "state": "Success",
-      "description": "Completed publish_telemetry (2.9s)",
-      "timestamp": "2026-03-08T19:08:43.430Z"
+      "description": "Completed run_backlog_task_building (220.4s)",
+      "timestamp": "2026-03-08T19:49:55.306Z"
     },
     {
-      "job": "publish_telemetry",
+      "job": "run_hashnode_agent",
       "state": "Success",
-      "description": "Completed publish_telemetry (3.5s)",
-      "timestamp": "2026-03-08T19:03:40.433Z"
+      "description": "Completed run_hashnode_agent (23.7s)",
+      "timestamp": "2026-03-08T19:46:14.919Z"
     },
     {
-      "job": "publish_telemetry",
+      "job": "run_devto_agent",
       "state": "Success",
-      "description": "Completed publish_telemetry (2.8s)",
-      "timestamp": "2026-03-08T18:58:36.842Z"
+      "description": "Completed run_devto_agent (23.4s)",
+      "timestamp": "2026-03-08T19:45:51.153Z"
     },
     {
-      "job": "publish_telemetry",
+      "job": "write_article",
       "state": "Success",
-      "description": "Completed publish_telemetry (3.0s)",
-      "timestamp": "2026-03-08T18:53:33.954Z"
+      "description": "Completed write_article (1.5s)",
+      "timestamp": "2026-03-08T19:45:27.705Z"
     },
     {
-      "job": "publish_telemetry",
+      "job": "process_backlog",
       "state": "Success",
-      "description": "Completed publish_telemetry (2.9s)",
-      "timestamp": "2026-03-08T18:48:30.834Z"
+      "description": "Completed process_backlog (0.0s)",
+      "timestamp": "2026-03-08T19:45:26.222Z"
     },
     {
-      "job": "publish_telemetry",
+      "job": "clean_backlog_low_value",
       "state": "Success",
-      "description": "Completed publish_telemetry (2.8s)",
-      "timestamp": "2026-03-08T18:43:27.728Z"
+      "description": "Completed clean_backlog_low_value (0.0s)",
+      "timestamp": "2026-03-08T19:45:26.215Z"
     }
   ]
 }
