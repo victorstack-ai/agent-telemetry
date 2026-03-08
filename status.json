@@ -2,67 +2,67 @@
   "current_job": "publish_telemetry",
   "state": "Running",
   "description": "Running publish_telemetry...",
-  "last_updated_utc": "2026-03-08T08:41:23.979Z",
+  "last_updated_utc": "2026-03-08T08:54:53.385Z",
   "history": [
     {
       "job": "publish_telemetry",
       "state": "Running",
       "description": "Running publish_telemetry...",
-      "timestamp": "2026-03-08T08:41:23.979Z"
+      "timestamp": "2026-03-08T08:54:53.385Z"
     },
     {
       "job": "fetch_learning",
       "state": "Success",
-      "description": "Completed fetch_learning (38.0s)",
-      "timestamp": "2026-03-08T08:41:23.978Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (2.7s)",
-      "timestamp": "2026-03-08T06:54:00.214Z"
+      "description": "Completed fetch_learning (31.4s)",
+      "timestamp": "2026-03-08T08:54:53.384Z"
     },
     {
       "job": "run_backlog_task",
       "state": "Success",
-      "description": "Completed run_backlog_task (165.3s)",
-      "timestamp": "2026-03-08T06:53:27.476Z"
+      "description": "Completed run_backlog_task (58.6s)",
+      "timestamp": "2026-03-08T08:43:40.821Z"
     },
     {
       "job": "run_linkedin_agent",
       "state": "Success",
-      "description": "Completed run_linkedin_agent (324.3s)",
-      "timestamp": "2026-03-08T06:50:42.051Z"
+      "description": "Completed run_linkedin_agent (33.9s)",
+      "timestamp": "2026-03-08T08:42:42.149Z"
+    },
+    {
+      "job": "run_backlog_task_building",
+      "state": "Fail",
+      "description": "Failed run_backlog_task_building: Cannot find module '/Users/victorcamilojimenezvargas/agent-hq/server/src/jobs/runBacklogTaskBuilding.js' imported from /",
+      "timestamp": "2026-03-08T08:42:08.163Z"
     },
     {
       "job": "run_hashnode_agent",
       "state": "Success",
-      "description": "Completed run_hashnode_agent (1.8s)",
-      "timestamp": "2026-03-08T06:45:17.698Z"
+      "description": "Completed run_hashnode_agent (24.8s)",
+      "timestamp": "2026-03-08T08:42:08.150Z"
     },
     {
       "job": "run_devto_agent",
       "state": "Success",
-      "description": "Completed run_devto_agent (0.4s)",
-      "timestamp": "2026-03-08T06:45:15.778Z"
+      "description": "Completed run_devto_agent (0.8s)",
+      "timestamp": "2026-03-08T08:41:43.196Z"
     },
     {
       "job": "write_article",
       "state": "Success",
       "description": "Completed write_article (1.4s)",
-      "timestamp": "2026-03-08T06:45:15.294Z"
+      "timestamp": "2026-03-08T08:41:42.281Z"
     },
     {
       "job": "process_backlog",
       "state": "Success",
       "description": "Completed process_backlog (0.0s)",
-      "timestamp": "2026-03-08T06:45:13.826Z"
+      "timestamp": "2026-03-08T08:41:40.747Z"
     },
     {
       "job": "clean_backlog_low_value",
       "state": "Success",
       "description": "Completed clean_backlog_low_value (0.0s)",
-      "timestamp": "2026-03-08T06:45:13.821Z"
+      "timestamp": "2026-03-08T08:41:40.740Z"
     }
   ]
 }
