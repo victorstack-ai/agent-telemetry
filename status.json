@@ -2,67 +2,67 @@
   "current_job": "publish_telemetry",
   "state": "Running",
   "description": "Running publish_telemetry...",
-  "last_updated_utc": "2026-03-08T08:54:53.385Z",
+  "last_updated_utc": "2026-03-08T09:16:15.206Z",
   "history": [
     {
       "job": "publish_telemetry",
       "state": "Running",
       "description": "Running publish_telemetry...",
-      "timestamp": "2026-03-08T08:54:53.385Z"
-    },
-    {
-      "job": "fetch_learning",
-      "state": "Success",
-      "description": "Completed fetch_learning (31.4s)",
-      "timestamp": "2026-03-08T08:54:53.384Z"
+      "timestamp": "2026-03-08T09:16:15.206Z"
     },
     {
       "job": "run_backlog_task",
       "state": "Success",
-      "description": "Completed run_backlog_task (58.6s)",
-      "timestamp": "2026-03-08T08:43:40.821Z"
+      "description": "Completed run_backlog_task (41.8s)",
+      "timestamp": "2026-03-08T09:15:45.198Z"
     },
     {
       "job": "run_linkedin_agent",
       "state": "Success",
-      "description": "Completed run_linkedin_agent (33.9s)",
-      "timestamp": "2026-03-08T08:42:42.149Z"
+      "description": "Completed run_linkedin_agent (957.9s)",
+      "timestamp": "2026-03-08T09:15:03.288Z"
     },
     {
       "job": "run_backlog_task_building",
-      "state": "Fail",
-      "description": "Failed run_backlog_task_building: Cannot find module '/Users/victorcamilojimenezvargas/agent-hq/server/src/jobs/runBacklogTaskBuilding.js' imported from /",
-      "timestamp": "2026-03-08T08:42:08.163Z"
+      "state": "Success",
+      "description": "Completed run_backlog_task_building (205.0s)",
+      "timestamp": "2026-03-08T08:59:05.333Z"
     },
     {
       "job": "run_hashnode_agent",
       "state": "Success",
-      "description": "Completed run_hashnode_agent (24.8s)",
-      "timestamp": "2026-03-08T08:42:08.150Z"
+      "description": "Completed run_hashnode_agent (30.4s)",
+      "timestamp": "2026-03-08T08:55:40.375Z"
     },
     {
       "job": "run_devto_agent",
       "state": "Success",
-      "description": "Completed run_devto_agent (0.8s)",
-      "timestamp": "2026-03-08T08:41:43.196Z"
+      "description": "Completed run_devto_agent (0.6s)",
+      "timestamp": "2026-03-08T08:55:09.803Z"
     },
     {
       "job": "write_article",
       "state": "Success",
-      "description": "Completed write_article (1.4s)",
-      "timestamp": "2026-03-08T08:41:42.281Z"
+      "description": "Completed write_article (1.5s)",
+      "timestamp": "2026-03-08T08:55:09.095Z"
     },
     {
       "job": "process_backlog",
       "state": "Success",
       "description": "Completed process_backlog (0.0s)",
-      "timestamp": "2026-03-08T08:41:40.747Z"
+      "timestamp": "2026-03-08T08:55:07.615Z"
     },
     {
       "job": "clean_backlog_low_value",
       "state": "Success",
       "description": "Completed clean_backlog_low_value (0.0s)",
-      "timestamp": "2026-03-08T08:41:40.740Z"
+      "timestamp": "2026-03-08T08:55:07.611Z"
+    },
+    {
+      "job": "feed_backlog",
+      "state": "Success",
+      "description": "Completed feed_backlog (0.0s)",
+      "timestamp": "2026-03-08T08:55:07.589Z"
     }
   ]
 }
