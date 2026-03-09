@@ -2,13 +2,19 @@
   "current_job": "publish_telemetry",
   "state": "Running",
   "description": "Running publish_telemetry...",
-  "last_updated_utc": "2026-03-09T04:02:40.166Z",
+  "last_updated_utc": "2026-03-09T04:07:43.274Z",
   "history": [
     {
       "job": "publish_telemetry",
       "state": "Running",
       "description": "Running publish_telemetry...",
-      "timestamp": "2026-03-09T04:02:40.166Z"
+      "timestamp": "2026-03-09T04:07:43.274Z"
+    },
+    {
+      "job": "publish_telemetry",
+      "state": "Success",
+      "description": "Completed publish_telemetry (2.9s)",
+      "timestamp": "2026-03-09T04:02:43.114Z"
     },
     {
       "job": "publish_telemetry",
@@ -57,12 +63,6 @@
       "state": "Success",
       "description": "Completed run_backlog_task (173.0s)",
       "timestamp": "2026-03-09T03:26:48.306Z"
-    },
-    {
-      "job": "run_linkedin_agent",
-      "state": "Success",
-      "description": "Completed run_linkedin_agent (119.6s)",
-      "timestamp": "2026-03-09T03:23:55.289Z"
     }
   ]
 }
