@@ -2,13 +2,19 @@
   "current_job": "publish_telemetry",
   "state": "Running",
   "description": "Running publish_telemetry...",
-  "last_updated_utc": "2026-03-10T02:34:55.351Z",
+  "last_updated_utc": "2026-03-10T02:39:58.526Z",
   "history": [
     {
       "job": "publish_telemetry",
       "state": "Running",
       "description": "Running publish_telemetry...",
-      "timestamp": "2026-03-10T02:34:55.351Z"
+      "timestamp": "2026-03-10T02:39:58.526Z"
+    },
+    {
+      "job": "publish_telemetry",
+      "state": "Success",
+      "description": "Completed publish_telemetry (3.0s)",
+      "timestamp": "2026-03-10T02:34:58.384Z"
     },
     {
       "job": "publish_telemetry",
@@ -57,12 +63,6 @@
       "state": "Success",
       "description": "Completed run_devto_agent (3.7s)",
       "timestamp": "2026-03-10T01:51:21.544Z"
-    },
-    {
-      "job": "write_article",
-      "state": "Success",
-      "description": "Completed write_article (1019.2s)",
-      "timestamp": "2026-03-10T01:51:16.337Z"
     }
   ]
 }
