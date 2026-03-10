@@ -2,13 +2,37 @@
   "current_job": "publish_telemetry",
   "state": "Running",
   "description": "Running publish_telemetry...",
-  "last_updated_utc": "2026-03-10T10:02:39.243Z",
+  "last_updated_utc": "2026-03-10T10:35:57.618Z",
   "history": [
     {
       "job": "publish_telemetry",
       "state": "Running",
       "description": "Running publish_telemetry...",
-      "timestamp": "2026-03-10T10:02:39.243Z"
+      "timestamp": "2026-03-10T10:35:57.618Z"
+    },
+    {
+      "job": "run_hashnode_agent",
+      "state": "Fail",
+      "description": "Failed run_hashnode_agent: waitUntilFinished timed out after 1860s",
+      "timestamp": "2026-03-10T10:35:27.369Z"
+    },
+    {
+      "job": "run_devto_agent",
+      "state": "Success",
+      "description": "Completed run_devto_agent (36.7s)",
+      "timestamp": "2026-03-10T10:03:19.056Z"
+    },
+    {
+      "job": "write_article",
+      "state": "Success",
+      "description": "Completed write_article (0.0s)",
+      "timestamp": "2026-03-10T10:02:42.263Z"
+    },
+    {
+      "job": "publish_telemetry",
+      "state": "Success",
+      "description": "Completed publish_telemetry (2.9s)",
+      "timestamp": "2026-03-10T10:02:42.161Z"
     },
     {
       "job": "publish_telemetry",
@@ -39,30 +63,6 @@
       "state": "Success",
       "description": "Completed fetch_learning (43.8s)",
       "timestamp": "2026-03-10T09:35:16.947Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (3.1s)",
-      "timestamp": "2026-03-10T09:33:39.573Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (3.0s)",
-      "timestamp": "2026-03-10T09:28:36.357Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (2.9s)",
-      "timestamp": "2026-03-10T09:23:33.288Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (3.1s)",
-      "timestamp": "2026-03-10T09:18:30.279Z"
     }
   ]
 }
