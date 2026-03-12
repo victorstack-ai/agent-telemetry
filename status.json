@@ -2,13 +2,43 @@
   "current_job": "publish_telemetry",
   "state": "Running",
   "description": "Running publish_telemetry...",
-  "last_updated_utc": "2026-03-11T23:54:56.561Z",
+  "last_updated_utc": "2026-03-12T00:00:07.049Z",
   "history": [
     {
       "job": "publish_telemetry",
       "state": "Running",
       "description": "Running publish_telemetry...",
-      "timestamp": "2026-03-11T23:54:56.561Z"
+      "timestamp": "2026-03-12T00:00:07.049Z"
+    },
+    {
+      "job": "clean_backlog_low_value",
+      "state": "Success",
+      "description": "Completed clean_backlog_low_value (0.0s)",
+      "timestamp": "2026-03-11T23:56:36.872Z"
+    },
+    {
+      "job": "feed_backlog",
+      "state": "Success",
+      "description": "Completed feed_backlog (0.0s)",
+      "timestamp": "2026-03-11T23:56:36.839Z"
+    },
+    {
+      "job": "clean_to_add",
+      "state": "Success",
+      "description": "Completed clean_to_add (0.0s)",
+      "timestamp": "2026-03-11T23:56:06.826Z"
+    },
+    {
+      "job": "fetch_learning",
+      "state": "Success",
+      "description": "Completed fetch_learning (37.2s)",
+      "timestamp": "2026-03-11T23:56:06.817Z"
+    },
+    {
+      "job": "publish_telemetry",
+      "state": "Success",
+      "description": "Completed publish_telemetry (3.1s)",
+      "timestamp": "2026-03-11T23:54:59.620Z"
     },
     {
       "job": "publish_telemetry",
@@ -33,36 +63,6 @@
       "state": "Success",
       "description": "Completed publish_telemetry (3.5s)",
       "timestamp": "2026-03-11T23:34:15.784Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (2.9s)",
-      "timestamp": "2026-03-11T23:29:12.176Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (3.2s)",
-      "timestamp": "2026-03-11T23:24:09.018Z"
-    },
-    {
-      "job": "run_hashnode_agent",
-      "state": "Success",
-      "description": "Completed run_hashnode_agent (95.3s)",
-      "timestamp": "2026-03-11T23:23:35.679Z"
-    },
-    {
-      "job": "run_devto_agent",
-      "state": "Success",
-      "description": "Completed run_devto_agent (80.5s)",
-      "timestamp": "2026-03-11T23:21:30.224Z"
-    },
-    {
-      "job": "publish_telemetry",
-      "state": "Success",
-      "description": "Completed publish_telemetry (3.5s)",
-      "timestamp": "2026-03-11T23:18:39.626Z"
     }
   ]
 }
