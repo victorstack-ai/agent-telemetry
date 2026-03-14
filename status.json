@@ -2,13 +2,19 @@
   "current_job": "publish_telemetry",
   "state": "Running",
   "description": "Running publish_telemetry...",
-  "last_updated_utc": "2026-03-14T19:58:54.816Z",
+  "last_updated_utc": "2026-03-14T20:04:28.020Z",
   "history": [
     {
       "job": "publish_telemetry",
       "state": "Running",
       "description": "Running publish_telemetry...",
-      "timestamp": "2026-03-14T19:58:54.816Z"
+      "timestamp": "2026-03-14T20:04:28.020Z"
+    },
+    {
+      "job": "publish_telemetry",
+      "state": "Success",
+      "description": "Completed publish_telemetry (3.1s)",
+      "timestamp": "2026-03-14T19:58:57.895Z"
     },
     {
       "job": "publish_telemetry",
@@ -57,12 +63,6 @@
       "state": "Success",
       "description": "Completed write_article (570.1s)",
       "timestamp": "2026-03-14T19:39:02.482Z"
-    },
-    {
-      "job": "run_backlog_task_building",
-      "state": "Fail",
-      "description": "Failed run_backlog_task_building: waitUntilFinished timed out after 1860s",
-      "timestamp": "2026-03-14T19:29:31.933Z"
     }
   ]
 }
