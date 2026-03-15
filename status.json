@@ -2,13 +2,19 @@
   "current_job": "publish_telemetry",
   "state": "Running",
   "description": "Running publish_telemetry...",
-  "last_updated_utc": "2026-03-15T08:18:46.384Z",
+  "last_updated_utc": "2026-03-15T08:24:19.806Z",
   "history": [
     {
       "job": "publish_telemetry",
       "state": "Running",
       "description": "Running publish_telemetry...",
-      "timestamp": "2026-03-15T08:18:46.384Z"
+      "timestamp": "2026-03-15T08:24:19.806Z"
+    },
+    {
+      "job": "publish_telemetry",
+      "state": "Success",
+      "description": "Completed publish_telemetry (3.3s)",
+      "timestamp": "2026-03-15T08:18:49.704Z"
     },
     {
       "job": "publish_telemetry",
@@ -57,12 +63,6 @@
       "state": "Success",
       "description": "Completed run_hashnode_agent (77.0s)",
       "timestamp": "2026-03-15T07:41:52.794Z"
-    },
-    {
-      "job": "run_devto_agent",
-      "state": "Success",
-      "description": "Completed run_devto_agent (79.4s)",
-      "timestamp": "2026-03-15T07:40:35.688Z"
     }
   ]
 }
